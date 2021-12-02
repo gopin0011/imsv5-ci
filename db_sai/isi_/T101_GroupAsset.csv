@@ -1,0 +1,10 @@
+﻿1,BLD 50,Building,208,65
+2,VHC 60,Vehicles,278,66
+3,PE 50,Plant Equipment,210,67
+4,OE 60,Office Equipment,276,68
+5,FF 60,Furniture and Fixture,280,70
+6,MCH 50,Machine,175,69
+7,COM 60,Computer ,279,71
+9,SOFT 60,Software,282,85
+10,LA 60,Leasing Asset,323,321
+11,DL 60,Deed & License,318,82

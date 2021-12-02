@@ -1,0 +1,682 @@
+﻿1,2121,Pos Jaga 1,1,1,NULL
+2,2122,Tempat parkir dan loker,1,2,NULL
+3,2123,Gardu Listrik 1,1,3,NULL
+4,2124,Pabrik,1,4,NULL
+5,2125,Ruang Trafo,1,5,NULL
+6,2126,Storage Room,1,6,NULL
+7,2127,Bengkel,1,7,NULL
+8,2128,Ruang Genset,1,8,NULL
+9,2129,Gardu Listrik 2,1,9,NULL
+10,21210,Gudang,1,10,NULL
+11,21211,Kantin,1,11,NULL
+12,21212,Pos Jaga 2,1,12,NULL
+13,21216,Relayout Green Line Factory Plant A,1,13,NULL
+14,21217,Atap Fiber Glas,1,14,NULL
+15,1210129,DAIHATSU GRAN MAX PICK UP T 8054 R,2,15,NULL
+16,1210130,DAIHATSU GRAN MAX T 1763 P,2,16,NULL
+17,1210131,DAIHATSU S401RP-TMREJJ Pick Up T 8295 DC,2,17,NULL
+18,1210132,DAIHATSU S401RP-TMREJJ Pick Up T 8297 DC,2,18,NULL
+19,1210133,DAIHATSU TERIOS  F700RG TX MT T 1731 DD,2,19,NULL
+20,1210134,DAIHATSU TERIOS  F700RG TX MT T 1737 DD,2,20,NULL
+21,1210135,DAIHATSU TERIOS F700 RG TX AT T 1736 DD,2,21,NULL
+22,1210136,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1510 DH,2,22,NULL
+23,1210137,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1511 DH,2,23,NULL
+24,1210138,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1513 DH,2,24,NULL
+25,1210139,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1514 DH,2,25,NULL
+26,1210140,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1516 DH,2,26,NULL
+27,1210141,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1517 DH,2,27,NULL
+28,1210142,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1522 DH,2,28,NULL
+29,1210143,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1523 DH,2,29,NULL
+30,1210144,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1525 DH,2,30,NULL
+31,1210145,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1527 DH,2,31,NULL
+32,1210146,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1528 DH,2,32,NULL
+33,1210147,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1529 DH,2,33,NULL
+34,1210148,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1531 DH,2,34,NULL
+35,1210149,DAIHATSU XENIA F651RV-GMDFJ (6X2) MT T 1532 DH,2,35,NULL
+36,1210150,HINO FG8JKKB GGJP (FG235JP) T 8530 DE,2,36,NULL
+37,1210151,HINO RANGER T 8490 R,2,37,NULL
+38,1210152,HINO RANGER T 8987 S,2,38,NULL
+39,1210153,HINO RANGER T 8990 S,2,39,NULL
+40,1210154,HINO WU342R HKMRJD39  130MDI T 8264 DI,2,40,NULL
+41,1210155,HINO WU342R HKMRJD39  130MDI T 8265 DI,2,41,NULL
+42,1210156,ISUZU FVR 34 BOX T 8115 DI,2,42,NULL
+43,1210157,ISUZU FVR 34 BOX T 8116 DI,2,43,NULL
+44,1210158,NISSAN PK 215 R BOX T 8331 R,2,44,NULL
+45,1210159,NISSAN PK 215 R BOX T 8443 R,2,45,NULL
+46,1210160,SUZUKI / AVI 414 F DX/ERTIGA T 1108 DS,2,46,NULL
+48,121090,Instalasi Pendingin,3,48,NULL
+49,121091,Forklift,3,49,NULL
+50,1210162,Racking,3,50,NULL
+51,1210163,Pallet for GM & SMI (1),3,51,NULL
+52,1210164,Installation Cost,3,52,NULL
+53,1210165,CMM,3,53,NULL
+54,1210166,Others (Fence, Water sources),3,54,NULL
+55,1210167,Mesin Scruber (Mekar mas Jaya),3,55,NULL
+56,1210168,Auto Strong 3-Jaw Wedge Type Through Hole N-208/3 Jaw Chuck CNC Bubut N208,3,56,NULL
+57,1210281,Combination Plier 6,3,57,NULL
+58,1210282,Saklar, lampu, dll,3,58,NULL
+59,116122,HT Onlica,4,59,NULL
+60,116119, Kamera Digital Cyber Shot Sony ,4,60,NULL
+61,116120,Timbangan Analog max 100 kg & timbangan Digital max 15kg,4,61,NULL
+62,116115, Camera Digital Canon TXUS 155 ,4,62,NULL
+63,1210284, Compressor AC  Split LG 2 PK ,4,63,NULL
+64,1210104,CNC Lathe Machine Merk Leadwell Tipe F-1 No. Seri L2T-JH0342, L2T-JG1247, L2T-JH0639, L2T-JH0673,6,64,NULL
+65,1210105,CNC Lathe Machine Merk Leadwell Tipe T-6 No Seri L2T-JD0709,6,65,NULL
+66,1210106,CNC Lathe Machine Merk Nakamura Tome Tipe TMC-15 No. Seri C4262,6,66,NULL
+67,1210107,CNC Lathe Machine Merk Polygim Tipe PLG 42 No. Seri 4200302, 42100002, 42000061, 42000194, 42100001,6,67,NULL
+68,1210108,CNC Lathe Machine Merk Murata W.S. Tipe WSC-811 No. Seri GK5144570,6,68,NULL
+70,1210110,Tapping Multi Spindle Merk TPM Tipe T-80 No. Seri 9404001,6,70,NULL
+71,1210111,Tapping Multi Spindle Merk Chen Fwa Tipe NAT - 16 No. Seri 6842,6,71,NULL
+72,1210112,Bench Tapping Machine Merk West Lake Tipe SWJ-16A No. Seri 411009,6,72,NULL
+73,1210113,Bench Drilling Machine Merk Namiki Tipe NBD-340 Tanpa pelat nama,6,73,NULL
+74,1210114,Bench Drilling Machine Merk West Lake Tipe ZQ4132 No. Seri 50100002, 50100011,6,74,NULL
+75,1210115,Bench Drilling Machine Merk Kira Tipe KRDG-420,6,75,NULL
+76,1210116,Sawing Machine Merk He Feng Tipe YJ1315Q No. Seri 1106158,6,76,NULL
+78,1210118,Shearing Machine Merk OKK Tipe SG 1033,6,78,NULL
+79,1210119,Shearing Machine Merk Amada Tipe S-2532 No. Seri 25321558,6,79,NULL
+80,1210120,Shearing Machine Merk Hatebur Tipe TS-36 No. Seri 8406030,6,80,NULL
+81,1210121,Shearing Machine Merk Hidracut,6,81,NULL
+82,1210122,Milling Machine Merk Yamamoto Tipe YF-700 No. Seri 1352, 5514,6,82,NULL
+83,1210123,Milling Machine Merk Universal Tipe 57-3C No. Seri 92245,6,83,NULL
+84,1210124,Belt Sandr Merk NTC Tipe 5 HV,6,84,NULL
+85,1210125,Barel Vibrator Merk Pao Chin Tipe 150 L,6,85,NULL
+86,1210126,Pneumatic Rivet Merk Atoli Tipe TC 152 No. Seri 1204437,6,86,NULL
+87,1210127,Mesin Pons Tanpa pelat nama,6,87,NULL
+88,1210128,Mesin Press Merk Jam,6,88,NULL
+89,1210169,Hidraulic Press,6,89,NULL
+90,1210170,Press Machine Merk Komatsu Tipe D4-1000-600-340-200 No. Seri 1901350,6,90,NULL
+91,1210171,Press Machine Merk Komatsu Tipe S4-600-340-200 No. Seri 1901349, 1901352, 1900984-2,6,91,NULL
+92,1210172,Press Machine Merk Komatsu Tipe E4S-800 No. Seri 1900848-9,6,92,NULL
+93,1210173,Press Machine Merk Komatsu Tipe S4-400-270-190 No. Seri 1900796-1, 1900796-3, 1900796-4,6,93,NULL
+231,1162,Printer L355,7,NULL,NULL
+232,116143,Metal Detector For Security,4,NULL,NULL
+96,1210176,Press Machine Merk Danly Tipe S4-1000-144 X 84 ODC No Seri  95418608,6,96,NULL
+97,1210177,Press Machine Merk Danly Tipe S4-600-144 X 72 ODC No Seri  95363318, 95363321, 95363317,6,97,NULL
+98,1210178,Press Machine Merk Danly Tipe S2-400-2743-1524 Buatan USA No Seri 358975,6,98,NULL
+233,116145,AC Split 2 PK,4,NULL,NULL
+234,116122,HT Onlica 4 unit,4,NULL,NULL
+235,116144,Timbangan Digital 30 Kg,4,NULL,NULL
+102,1210182,Press Machine Merk IHI Tipe S4-500-250-70 No. Seri 1511-189,6,102,NULL
+103,1210183,Press Machine Merk Aida Tipe PL2-35 No seri 13100-0103, 13100-0070,6,103,NULL
+104,1210184,Press Machine Merk Yodogawa Tipe PCL-2350C no Seri 809741-2,6,104,NULL
+105,1210185,Press Machine Merk Fukui Tipe 4612 No Seri 1504,6,105,NULL
+106,1210186,Press Machine Merk Aida Tipe PDW-20, PDA200W No seri 12700-0112, 12700-0362,,6,106,NULL
+107,1210187,Press Machine Merk Aida Tipe PDW-20, PDA200W No seri 12700-0362,,6,107,NULL
+108,1210188,Press Machine Merk Aida Tipe NCI 800 (2) E No seri C0408-0695, C0408-0689,6,108,NULL
+109,1210189,Press Machine Merk Aida Tipe NCI 1100 (2) E, No seri C0411-0815,6,109,NULL
+69,1210109,CNC Lathe Machine Merk Muratec Tipe MS60E No. Seri 05KX234840002,6,69,NULL
+110,1210190,Press Machine Merk Aida Tipe NCI 1500 (2) E No. Seri Co415-0850,6,110,NULL
+111,1210191,Press Machine Merk Komatsu Tipe OBS 110-6 No. Seri 14644,6,111,NULL
+112,1210192,Press Machine Merk Aida Tipe NC1 150 (2) No. Seri 10215-8114,6,112,NULL
+113,1210193,Press Machine Merk Aida Tipe NC1 1500(2) E No Seri C0415-0770,6,113,NULL
+114,1210194,Press Machine Merk Aida Tipe NC1 2000(2) E No Seri C0420-0730,6,114,NULL
+115,1210195,Press Machine Merk Aida Tipe NC1 150 (2) No. Seri  10215-8089,6,115,NULL
+116,1210196,Press Machine Merk Chinfong Tipe OCP 110 N No. Seri N92287,6,116,NULL
+117,1210197,Press Machine Merk Aida Tipe NC1 80(2) No. Seri 10208-8624,6,117,NULL
+118,1210198,Press Machine Merk Aida Tipe NC1 200(2) No. Seri 002206438,6,118,NULL
+119,1210199,Press Machine Merk Komatsu Tipe OBS 150-6 No. Seri 13820,6,119,NULL
+120,1210200,Press Machine Aida Tipe NC1 1100 (2) E, No. Seri C0411-0737,6,120,NULL
+121,1210201,Press Machine Aida Tipe NC1 1100 (2) E, No Seri C0411-0738,6,121,NULL
+122,1210202,Press Machine Merk Komatsu Tipe OBS 150-6 No. Seri 13806,6,122,NULL
+123,1210203,Press Machine Merk Komatsu Tipe OBS 80-6 No. Seri 15663,6,123,NULL
+124,1210204,Press Machine Merk Chinfong Tipe OCP 110 N No. Seri N92287,6,124,NULL
+77,1210117,Sawing Machine Merk He Feng Tipe YJ 275 No. Seri 0705147, 0804102,6,77,NULL
+125,1210205,Press Machine Merk Aida Tipe NC1 80(2) No. Seri 10208-8625,6,125,NULL
+126,1210206,Press Machine Merk Komatsu Tipe OBS 60-3 No. Seri 13422,6,126,NULL
+127,1210207,Press Machine Merk Komatsu Tipe OBS 80-6 No. Seri  15659,6,127,NULL
+236,116145,AC Split 2 PK,4,NULL,NULL
+237,121086,Compressors,3,NULL,NULL
+238,121087,Air Dryer,3,NULL,NULL
+239,121088,Hoist Crane,3,NULL,NULL
+240,121089,Generator Set Merk Mitsubishi, Jepang No. Seri P-1325 & P-1326,3,NULL,NULL
+128,1210208,Press Machine Merk Aida NC 1 150 (2) No. Seri 00215-8082,6,128,NULL
+129,1210209,Press Machine Merk Komatsu Tipe OBS 60-3 No. Seri  14868,6,129,NULL
+130,1210210,Press Machine Merk Aida Tipe NC1 80(2) No. Seri 10208-8625,6,130,NULL
+131,1210211,Press machine Merk Seyi Tipe SNI 60 No. Seri EW60-232,6,131,NULL
+132,1210212,Press Machine merk Komatsu Tipe OBS 45-3 No. Seri 16751,6,132,NULL
+133,1210213,Press Machine Merk Aida Tipe NC1 800 (2) E No. Seri C0408-0730, C0408-0729,,6,133,NULL
+134,1210214,Press Machine Merk Aida Tipe NC1 200(2) No. Seri 002206439,6,134,NULL
+135,1210215,Press Machine Aida Tipe NC1 1100 (2) E, No Seri C0411-0800,6,135,NULL
+136,1210216,Press Machine Merk Komatsu Tipe OBS 150-2, No. Seri 10915,6,136,NULL
+137,1210217,Press Machine Merk Komatsu Tipe OBS-200-3 No. Seri 10418,6,137,NULL
+138,1210218,Press Machine Merk Komatsu Tipe OBS 150-6 No. Seri 13727,6,138,NULL
+139,1210219,Press Machine Merk Komatsu Tipe OBS 150-3 No. Seri 11105,6,139,NULL
+140,1210220,Press Machine Merk Fengyu Tipe FCP 110 No seri 511033,6,140,NULL
+141,1210221,Press Machine Merk Komatsu Tipe OBS 80-3 No Seri 13696,6,141,NULL
+142,1210222,Press Machine Merk Aida Tipe NCI 800 (1) E No seri C0408-0669,6,142,NULL
+143,1210222,Press Machine Merk Aida Tipe NCI 800 (1) E No seri C0408-0669,6,143,NULL
+144,1210222,Press Machine Merk Aida Tipe NCI 800 (1) E No seri C0408-0669,6,144,NULL
+145,1210222,Press Machine Merk Aida Tipe NCI 800 (1) E No seri C0408-0669,6,145,NULL
+146,1210223,Press Machine merk Komatsu Tipe OBS 150-3 No. Seri 11464,6,146,NULL
+147,1210224,Press Machine Merk Aida Tipe NC1 1500(1) E No Seri C0415-0730,6,147,NULL
+148,1210225,Press Machine Merk Aida Tipe NC1 1500(1) E No Seri C0415-0843,6,148,NULL
+149,1210226,Press Machine Merk Aida Tipe NC1 1500(1) E No Seri C0420-0717,6,149,NULL
+150,1210227,Press Machine Aida Tipe  NC1 110 (1) No. Seri  00211-7818,6,150,NULL
+151,1210228,Press Machine Merk Aida Tipe PC3-1 No. Seri 15203-1339,6,151,NULL
+152,1210229,Press Machine Merk Amino Tipe ISDP No Seri 5315,6,152,NULL
+153,1210230,Press Machine Merk Minchang Tipe MCD No Seri 8940,6,153,NULL
+154,1210231,Press Machine Merk Lien Chien Tipe LD-500-160 No Seri KHM03326,6,154,NULL
+155,1210232,Press Machine Merk Komatsu Tipe E2 W 300 No seri 10007,6,155,NULL
+156,1210233,Press Machine Merk Komatsu Tipe E2G 300- BM No seri 10195,6,156,NULL
+157,1210234,Press Machine Merk Chinfong Tipe STD-400-250-150 No Seri 960164,6,157,NULL
+158,1210235,Press Machine Merk Aida Tipe Aida Tipe HMX-300 (1) No. Seri 12830-2204,6,158,NULL
+159,1210236,Press Machine Merk Aida Tipe Aida Tipe PDA 300 L No. Seri12830-2204, 1800-0641,6,159,NULL
+160,1210237,Press Machine Merk Aida Tipe PDA200W No seri 12800-0423,6,160,NULL
+161,1210238,Press Machine Merk Komatsu Tipe L2M-400-3BM No seri 10106,6,161,NULL
+162,1210239,Press Machine Merk Komatsu Tipe L2M-300-3BM No seri 10101,6,162,NULL
+163,1210240,Press Machine Merk Komatsu Tipe OBW 150-3BM No. Seri 10056,6,163,NULL
+164,1210241,Press Machine Merk Komatsu Tipe OBW 150-3BM No. Seri  10057,6,164,NULL
+165,1210242,Press Machine Merk Aida Tipe NC2 110 (1) No. Seri 10511-1378,6,165,NULL
+166,1210243,Press Machine Merk Amino Tipe ISDP No Seri 5315,6,166,NULL
+167,1210244,Press Machine Merk Komatsu Tipe OBS 150-3 No Seri 11105,6,167,NULL
+168,1210245,Spot Welding Merk Dengensha Tipe ND-50-66 No. Seri 855319,6,168,NULL
+169,1210246,Spot Welding Merk National Tipe YF 0701 KV No. Seri 15322,6,169,NULL
+170,1210247,Spot Welding Merk Season Tipe SA-3545 No. Seri 85050090,6,170,NULL
+171,1210248,Spot Welding Merk Panasonic Tipe YR505-SA-21 D No. Seri U7822,6,171,NULL
+172,1210249,Spot Welding Merk Hao Thing Tipe HS2101 No. Seri F660001,6,172,NULL
+173,1210250,Spot Welding Merk Hao Thing Tipe WR-2902101-1D,6,173,NULL
+174,1210251,CO² Welding Merk Weld Teco KF-350 Tipe F-350 No. Seri 52910145,6,174,NULL
+175,1210252,CO² Welding Merk Weld Teco KF-350 Tipe F-350 No. Seri  52910125,6,175,NULL
+176,1210253,CO² Welding Merk Dyna Mig 5500 M No. Seri YM350KR1,6,176,NULL
+177,1210254,CO² Robot Welding Merk OTC Almega Tipe All-V6 No. Seri 1L10460-YZ5085109, YZ5085308,6,177,NULL
+178,1210255,CO² Welding Merk Safmig Tipe Safmig 400DBL No. Seri N 17835,6,178,NULL
+179,1210255,CO² Welding Merk Safmig Tipe Safmig 400DBL No. Seri N 17835,6,179,NULL
+180,1210255,CO² Welding Merk Safmig Tipe Safmig 400DBL No. Seri N 17835,6,180,NULL
+181,1210255,CO² Welding Merk Safmig Tipe Safmig 400DBL No. Seri N 17835,6,181,NULL
+182,1210256,CO² Welding Merk Thermaweld 5500 M No. Seri YM350KR1,6,182,NULL
+183,1210257,Stud Welding merk Soyer Tipe BMK-12W,6,183,NULL
+184,1210258,Portable Spot Welding Merk Obara ,6,184,NULL
+185,1210258,Portable Spot Welding Merk Obara ,6,185,NULL
+186,1210258,Portable Spot Welding Merk Obara ,6,186,NULL
+187,1210258,Portable Spot Welding Merk Obara ,6,187,NULL
+188,1210258,Portable Spot Welding Merk Obara ,6,188,NULL
+189,1210259,Portable Spot Welding Merk Dengensha ,6,189,NULL
+190,1210259,Portable Spot Welding Merk Dengensha ,6,190,NULL
+191,1210260,CNC Milling Machine Merk Makino Tipe S56,6,191,NULL
+192,1210261,CNC Milling Machine Merk Makino Tipe S33 A200,6,192,NULL
+193,1210262,CNC Milling Machine Merk Makino Tipe Max 65S-A30,6,193,NULL
+194,1210263,CNC Milling Machine Merk Makino Tipe Max 65S-A20,6,194,NULL
+195,1210264,CNC Lathe Machine Merk liouy Hsing Tipe CNC-450 L No. Seri 03197,6,195,NULL
+196,1210265,Surface Grinding Merk Okamoto Tipe ACC-350-II No. Seri 740917 No. Mesin 36070,6,196,NULL
+197,1210266,Surface Grinding Merk Chevalier Tipe FSG - 1A618 No. Seri B4935001,6,197,NULL
+198,1210267,Surface Grinding Merk Okamoto Tipe PSG-205 DX No. Seri 32028,6,198,NULL
+199,1210268,Jig Boring Merk Mitsui Seiki Tipe J4BMD No. Seri 760,6,199,NULL
+200,1210269,Drilling & Milling Machine Merk Shizuoka Tipe VHR-A No. Seri 4868, 13623,6,200,NULL
+201,1210270,Mesin Bubut merk Gap Bed Lathe Tipe CW6232 B No. Seri  IP54,6,201,NULL
+202,1210271,Milling Machine Merk Dahlih Tipe V1600 No. Seri 3C-772,6,202,NULL
+203,1210272,Mesin Bubut Merk Myler Tuda Tipe Myler 500 X 860 G No Seri 701370,6,203,NULL
+204,1210273,Radial Drilling Merk Tone Fan Tipe RD 1280 H,6,204,NULL
+205,1210274,EDM Machine Merk Sodick Tipe AQ55L No Seri 588,6,205,NULL
+206,1210275,Super Drilling Machine Merk SKM Tipe D 50 No Seri 080134,6,206,NULL
+207,1210276,CNC Wirecutting Machine Merk Sodick Tipe A500W No. Seri C815, C749,6,207,NULL
+208,1210277,Surface Grinding Merk Akamoto Tipe PSG105DX No. Seri 20047,6,208,NULL
+209,1210278,Surface Grinding Merk Perfect Tipe PFG-50100AHD No.Seri 935503,6,209,NULL
+210,1210279,Surface Grinding Merk Akamoto Tipe Kent 2550A No. Seri 740917,6,210,NULL
+211,1210280,Cylinder Grinding Merk Akamoto Shigiya Tipe CGUA-20-50 No. Seri 5131,6,211,NULL
+212,11613,Yealink T46G SIP,7,212,NULL
+213,11614,Yealink EX P-40,7,213,NULL
+214,11615,Laptop Asus X450JF,7,214,NULL
+215,11617,Seagate Backup Plus 1TB Slim,7,215,NULL
+216,1167,Printer Epson LX310,7,216,NULL
+217,116110,Escene ES290,7,217,NULL
+218,1162,Printer Epson L355,7,218,NULL
+219,1170,Printer Epson L1300,7,219,NULL
+220,11619,APC SUA48RMX LBP3U,7,220,NULL
+221,11616,Asus Transformer Book,7,221,NULL
+222,11618,APC SUA3000R MX Li3U,7,222,NULL
+227,NULL,Meja Pingpong,5,NULL,NULL
+228,NULL,Mesin Potong Rumput,4,NULL,NULL
+229,1162,Printer Epson L355 untuk FA,7,NULL,NULL
+230,NULL,Pembuatan Ruang Klinik,1,NULL,NULL
+241,116111,Fire Safe Box,4,NULL,NULL
+242,116113,1 set wireless (bismark BM 368 DVD),4,NULL,NULL
+243,116114,Toshiba LED tv 47",4,NULL,NULL
+244,116121,Toshiba LED tv 42",4,NULL,NULL
+245,116116,Camera Digital Samsung 16MP,4,NULL,NULL
+246,1210283,AC Cassette Panasonic,4,NULL,NULL
+261,1210288&1210289&1210290,Tip Dresser ETD - 18 F S/N : 44165/44171/44172, Cutter 6 x 8R x 16, Tip Dresser Dia 6x,3,NULL,NULL
+295,116142,Cutting Machine,4,NULL,NULL
+264,1210291,H-SHAL13, H-SHAL10 (Punch),3,NULL,NULL
+265,1210293,Gun Stud Well PH-3N,3,NULL,NULL
+266,1210294,Skun Cable & Box Panel,3,NULL,NULL
+267,1210295,Sensor, Power Supply, Pilot Lamp etc,3,NULL,NULL
+268,1210296,KCF Guide Pin,3,NULL,NULL
+269,116141,Sofa L-Vitalita,5,NULL,NULL
+270,116148&116149,Compressor AC Split LG 2PK & Roller Bearing,4,NULL,NULL
+271,116122,HT Onlica 2 unit,4,NULL,NULL
+272,NULL,Microscope & CCD Kamera,4,NULL,NULL
+273,116147,AC Split 1PK 2 unit,4,NULL,NULL
+274,116150,Crusher Machine,4,NULL,NULL
+275,116151,Quality Tools untuk Kalibrasi,4,NULL,NULL
+276,116153,Vacum Cleaner,4,NULL,NULL
+277,116152,White Board,4,NULL,NULL
+278,116127&116128&1170&29&30,Infocus Projector IN124STA, Keystone Motorize 119 inch, Epson Printer L1300, ESCENE ES290, Grand Streams 3275,7,NULL,NULL
+247,1161,Komputer Server CISCO UCS C240 M3,7,NULL,NULL
+248,1164,Grandstream - GXW4108-8FXO IP Analog Gateway,7,NULL,NULL
+249,1163,Epson Printer L355,7,NULL,NULL
+250,1162,Notebook ACER Aspire E5-471,7,NULL,NULL
+251,1166,Printer LaserJet Pro P1102W,7,NULL,NULL
+252,1167,Printer Epson LX-310,7,NULL,NULL
+253,1168,HDX-001- WD My Book Essential 3TB USB 3.0 3.5 inch,7,NULL,NULL
+254,1169,Epson Printer LQ 2190,7,NULL,NULL
+255,11610,Epson Printer L1300,7,NULL,NULL
+256,11611,UPS-001 - Enlight UPS 800 VA,7,NULL,NULL
+257,11612,Routerboard MBITSAI2-L5 MikroBits Ainos,7,NULL,NULL
+258,116131&116132,Ubiquiti UNIFI Long Range AC Series, Ubiquitii UNIFI Access Point Ceiling Long Range 500 W Gigabit,7,NULL,NULL
+297,116126,License of Microsoft,9,NULL,NULL
+260,NULL,AC Split 2PK,4,NULL,NULL
+306,116138,Nano Station M2 (Ruang Security),7,NULL,NULL
+307,116139,Solution Wireless Scanner Barcode,7,NULL,NULL
+369,NULL,Press Machine Merk Danly Tipe S4-1000-144 X 84 ODC No Seri 95418606,6,NULL,NULL
+302,NULL,Filling Kabinet,4,NULL,NULL
+303,21218,Ruang Cutting QC,1,NULL,NULL
+308,116140,HP DesignJet T920 PostScript,7,NULL,NULL
+309,1210285,2 Unit Toyota Forklift FDZN25,10,NULL,NULL
+313,1210302,150mm random orbital pal sender-self Vacum Type R566,3,NULL,NULL
+317,1210306,COLLAR NUT and T-BOLT,3,NULL,NULL
+318,NULL,Digital Vector,4,NULL,NULL
+319,NULL,Meja & Kursi Direktur HRD,4,NULL,NULL
+320,NULL,Meja & Sofa "L",4,NULL,NULL
+321,NULL,Kursi Plastik,4,NULL,NULL
+322,212110,Relayout Gedung Pabrik,1,NULL,NULL
+323,NULL,Laptop Asus A450LD-WX032D & Escene  - ES290,7,NULL,NULL
+324,NULL,Multipurpose Ladder 3.29m alumunium,7,NULL,NULL
+325,1210307,Speed Controller,3,NULL,NULL
+326,1210308,Polybox Type 6033,3,NULL,NULL
+327,1210309,Polybox Type 2022,3,NULL,NULL
+328,1210310,Polybox Type 6011,3,NULL,NULL
+329,1210311,Endmill,3,NULL,NULL
+330,1210312,Polybox Type 6055,3,NULL,NULL
+331,116154,Bracket TV Stand,4,NULL,NULL
+332,116155,Mesin Foto Kopi untuk Engineering,4,NULL,NULL
+333,116122,HT Onlica 5 unit,4,NULL,NULL
+334,116152,White Board untuk Enginneering,4,NULL,NULL
+335,116156,High Pressure Cleaner,4,NULL,NULL
+336,NULL,CCTV(12Unit), WDC AV GP 2Tb (2), Kabel STP (4roll),7,NULL,NULL
+337,NULL,HP LaserJet Pro P1102,7,NULL,NULL
+338,NULL,1 unit Honda Mobilio,10,NULL,NULL
+339,NULL,HP LaserJet Pro P1102,7,NULL,NULL
+340,NULL,Asus A450LD dan Escene ES290,7,NULL,NULL
+296,116146,Microscof & Vision System,4,NULL,NULL
+283,116136,PC Desktop HP Pavilion 20-2213x 9 unit,7,NULL,NULL
+284,116133&116134&116135&1162,Asus X450 JF, Manage Switch HP  - 24G, Manage Switch HP  - 24G, Epson Printer L355,7,NULL,NULL
+304,1210161,Toyota Alphard,10,NULL,NULL
+305,116125,G5 System,9,NULL,NULL
+288,21219,Kolam Resapan,1,NULL,NULL
+289,1210286,Yajima Nut Feeder Type NF-SIS-0006-IS5,6,NULL,NULL
+290,1210287,Yajima Nut Feeder Type NF-SIS-0008-IS5,6,NULL,NULL
+291,1210292,Tip Dresser SK-10D & Cutter,3,NULL,NULL
+292,116137,HP Envy 15 series,7,NULL,NULL
+293,1210298,Extended Spindle Die Grinder, Impact Drill,3,NULL,NULL
+310,1210299,Rantai Die 12x4 m,3,NULL,NULL
+311,1210300,Torque Leader ATB 10 2 - 10Nm,3,NULL,NULL
+312,1210301,Diamond Pin, Square Pin, Round Pin and Round Hardened,3,NULL,NULL
+314,1210303,Partisi lid fuel inlet PT.SIM,3,NULL,NULL
+315,1210304&1210305,SLEEVE SPECIAL (Bolt M8), SLEEVE SPECIAL (Bolt M10),3,NULL,NULL
+342,NULL,Name Plate (Lobby),1,NULL,NULL
+348,NULL,Sensor Nut PM7,3,NULL,NULL
+344,NULL,Name Plate (Gate),1,NULL,NULL
+345,NULL,Polybox Type 3323 PT.SIM,3,NULL,NULL
+346,NULL,Polybox Type 6333 PT. FSI,3,NULL,NULL
+347,NULL,Sensor Jig PT.SIM,3,NULL,NULL
+351,NULL,Telp Panasonic KX-TG1312, Grandstream Networks type HT702,7,NULL,NULL
+353,NULL,Bor tenaga batere untuk pemasangan CCTV,4,NULL,NULL
+354,NULL,Jack Hammer Merk Hitachi PH-65A,4,NULL,NULL
+355,NULL,Press Machine Merk Danly-FMI Mecfond Tipe S2-400-2743-1523 No. Seri 3591-18, 3591-22, 3591-4, 2568-6,6,NULL,NULL
+356,NULL,Web Cam,7,NULL,NULL
+357,NULL,HP Pavilion 22-30116d All in One,7,NULL,NULL
+362,NULL,CATIA CPU,7,NULL,NULL
+364,NULL,Kursi Plastik 11 unit untuk ruang meeting Engineering,5,NULL,NULL
+365,NULL,Kursi Plastik 6 unit untuk ruang office Engineering,5,NULL,NULL
+366,NULL,Meja kerja kayu 6 unit untuk ruang office Engineering,5,NULL,NULL
+367,NULL,Kursi meeting 2 unit,5,NULL,NULL
+368,NULL,Softboard untuk Ruang Quality,4,NULL,NULL
+370,NULL,Press Machine Merk Danly Tipe S4-600-144 X 72 ODC No Seri 95363315, 95363311, 95363312,6,NULL,NULL
+371,NULL,Meja + Kursi untuk Ruang project MMC,5,NULL,NULL
+374,NULL,Camera Digital 1 unit,4,NULL,NULL
+375,NULL,Store Room Office 2,1,NULL,NULL
+378,NULL,Lemari / rak file,5,NULL,NULL
+379,NULL,Fingerprint,7,NULL,NULL
+380,NULL,PC 3 unit & 1 Proyektor,7,NULL,NULL
+381,NULL,Minitab 17 for Windows,9,NULL,NULL
+384,NULL,Motor Kymco 2 unit,2,NULL,NULL
+341,NULL,Pembelian alat ukur Quality,4,NULL,NULL
+352,NULL,Software CATIA,9,NULL,NULL
+358,NULL,Perlengkapan ruang VIP (Pembuatan Tempat TV),4,NULL,NULL
+372,NULL,Notebook for Manager,7,NULL,NULL
+373,NULL,Switch Rak,7,NULL,NULL
+376,NULL,AC Standing 2 PK 1 unit,4,NULL,NULL
+377,NULL,HT Onlica 2 unit untuk ICT,4,NULL,NULL
+382,NULL,Rail Instalation for Dies,1,NULL,NULL
+383,NULL,Server DELL 730 POWEREDGE 2xIntel Xeon 2.3GHz, 10TB HDD, 32GB RAM,7,NULL,NULL
+385,NULL,HT Onlica 3 unit untuk Stamping,4,NULL,NULL
+386,NULL,Memory Cisco,7,NULL,NULL
+387,NULL,Hand Bor HITACHI,3,NULL,NULL
+392,NULL,AC Spilt 2 PK untuk Ruang OHCD,4,NULL,NULL
+393,NULL,AutoCad,9,NULL,NULL
+394,NULL,SONY Cybershot DSC-WX350,4,NULL,NULL
+395,NULL,ASUS Vivo PC for Teleconference in Executive Room,7,NULL,NULL
+396,NULL,Ubiquity Though Switch 16 port TS-16,7,NULL,NULL
+398,NULL,Instalasi Jaringan Fiber Optik,7,NULL,NULL
+399,NULL,Notebook ASUS N550JX-CN025H & Printer Epson L310,7,NULL,NULL
+400,NULL,Perbaikan lantai office engineering & pembuatan tiang penyangga rel crane,1,NULL,NULL
+401,NULL,HT Olinca TH-888A 4 Unit utk Quality,4,NULL,NULL
+402,NULL,HT Olinca TH-888A 3 Unit utk PPIC,4,NULL,NULL
+403,NULL,Lemari arsip untuk MMC Room,5,NULL,NULL
+404,NULL,Jig For Clutch Cover D30D Project EXEDY,3,NULL,NULL
+405,NULL,Kursi meeting 10 unit untuk PPIC Delivery,5,NULL,NULL
+406,NULL,Soft board untuk Ruang MMC,4,NULL,NULL
+407,NULL,Meja Putih Meeting 5 unit MMC Room,5,NULL,NULL
+408,NULL,Kursi meeting foam warna merah 30 unit MMC Room,5,NULL,NULL
+409,NULL,Dispenser Hot/Cool,4,NULL,NULL
+410,NULL,CRV 2.4 AT Prestige Special Edition,10,NULL,NULL
+411,NULL,Telepon ESCENE 3 unit,4,NULL,NULL
+412,NULL,Unifi Video Outdoor 26 Unit, UBNT Toughtcable carrier 8 Unit, Thoughswitch 16 port 3 Unit,7,NULL,NULL
+413,NULL,Komputer HP Pavilion 2 set,7,NULL,NULL
+414,NULL,Laptop for Manager Warehouse,7,NULL,NULL
+415,NULL,Notebook untuk GA,7,NULL,NULL
+416,NULL,LCD 50" 3 unit + Bracket Toshiba,4,NULL,NULL
+417,NULL,HOIST NITCHI EMT-MH-5 dan Besi WF,3,NULL,NULL
+418,NULL,1 set audio IMS,4,NULL,NULL
+419,NULL,Komputer HP 2 unit,7,NULL,NULL
+420,1210163,Pallet for GM & SMI (2),3,NULL,NULL
+421,NULL,Cost Optimizer Annual License,11,NULL,NULL
+422,NULL,Toilet & Masjid di Plant C,1,NULL,NULL
+423,NULL,Tangga Underground Conveyor,1,NULL,NULL
+424,NULL,Telepon Yealink T46G 2 unit, Escene ES290 1 Unit untuk K. Panrit, ICT & QEMR,4,NULL,NULL
+425,NULL,Pengecoran Lantai Koridor B-C,1,NULL,NULL
+426,NULL,Tap Mesin Dies,3,NULL,NULL
+427,NULL,Ragum Mesin Milling,3,NULL,NULL
+428,NULL,Ballnose untuk tooling machining SAI-TM-15001,3,NULL,NULL
+429,NULL,Bor Nachi untuk tooling machining SAI-TM-15001,3,NULL,NULL
+430,NULL,SYNOLOGY RS3614XS,7,NULL,NULL
+433,NULL,Kanopi Delivery Area Sisi Selatan,1,NULL,NULL
+434,NULL,Laptop ASUS X450JN-WX022D,7,NULL,NULL
+436,NULL,HT ONLICA TH-888 A 3 UNIT FOR QC,4,NULL,NULL
+437,NULL,KOMPUTER HP PAVILON FOR ENGINEERING,7,NULL,NULL
+440,NULL,Pokayoke Nut Counter Stroke Line SSW,3,NULL,NULL
+441,NULL,Counter Stroke Gun Line PSW,3,NULL,NULL
+442,NULL,HP Pavilon & Printer epson L355 Wifi for FA Dept,7,NULL,NULL
+443,NULL,Audio untuk area kantin,4,NULL,NULL
+444,NULL,Sling Baja,3,NULL,NULL
+446,NULL,Ragum Vertex,3,NULL,NULL
+448,NULL,Unifi access point AC 1 unit for President Room,7,NULL,NULL
+450,NULL,CNC Milling Hartford Machine,6,NULL,NULL
+451,NULL,Scanner barcode,4,NULL,NULL
+452,NULL,Meja + Kursi untuk Vice President,5,NULL,NULL
+453,NULL,NoteBook ASUS N550JX-CN025H and APPLE IPhone 6 PLUS for Vice President,7,NULL,NULL
+454,NULL,Telephone Yealink SIP-T46G IP-Phone,7,NULL,NULL
+455,NULL,Bench Grinder (Eng Tool),3,NULL,NULL
+456,NULL,Dial Test Indicator Quality,4,NULL,NULL
+457,NULL,Bench Grinder,3,NULL,NULL
+458,NULL,Vertex Permanent Magnetic Lifter and 1/2 drive socket,3,NULL,NULL
+459,NULL,PE Tools for Prepare Dies,3,NULL,NULL
+460,NULL,Ballnose Cutter,3,NULL,NULL
+461,NULL,Mesin Rivet,6,NULL,NULL
+462,NULL,Pollybox D30D Project FSI,3,NULL,NULL
+463,NULL,Laptop ASUS A455LF untuk EXIM Dept.,7,NULL,NULL
+464,NULL,MACHINE STAR MASTER DRIVEN PLATE 077 untuk project K81A Exedy,6,NULL,NULL
+467,NULL,Robot Handling Pay Load MH180,6,NULL,NULL
+468,NULL,Robot Spot Weld Pay Load-MS 165,6,NULL,NULL
+469,NULL,Tig Welding,3,NULL,NULL
+470,NULL,Roda Hito 5 inc,3,NULL,NULL
+472,NULL,PENJUALAN MESIN AIDA 3 unit TYPE : HMX-300, PDA-300 dan PDA200W,6,NULL,NULL
+473,NULL,Kulkas untuk Vice President Room,4,NULL,NULL
+474,NULL,AC 2 PK 3 unit untuk Delivery dan GA,4,NULL,NULL
+477,NULL,Pollybox untuk project HPM,3,NULL,NULL
+478,NULL,Rondcom Machine,6,NULL,NULL
+479,NULL,Counter Sensor PLC Door Hinge ECN - SIM,3,NULL,NULL
+480,NULL,Relayout QC Room,1,NULL,NULL
+482,NULL,2 Unit Tough Cable Cerier dan 5 unit Unifi Video Camera,4,NULL,NULL
+483,NULL,Laptop untuk PLC Project MMKI,7,NULL,NULL
+486,NULL,Polybox type 6033 Project D30D PT. FSI,3,NULL,NULL
+359,NULL,ABS Digmatic Caliper,4,NULL,NULL
+360,NULL,HT Onlica 7 unit,4,NULL,NULL
+363,NULL,HT Onlica 1 unit,4,NULL,NULL
+388,NULL,Drill Chuck,3,NULL,NULL
+389,NULL,Batu Gerinda,3,NULL,NULL
+390,NULL,T-Slot Bolts & Flanged Nuts,3,NULL,NULL
+391,NULL,Meja + Kursi ruang VIP room,5,NULL,NULL
+397,NULL,Line HPM Project,1,NULL,NULL
+431,NULL,1 Unit UPS APC SURTD & 3 unit Batere UPS,7,NULL,NULL
+435,NULL,HT ONLICA TH-888 A 2 UNIT FOR MAINTENANCE,4,NULL,NULL
+445,NULL,Bor Nachi & endmill,3,NULL,NULL
+471,NULL,Printer untuk Stamping Dept.,7,NULL,NULL
+475,NULL,TOYOTA Forklift reach Truck Model 7FBR15,3,NULL,NULL
+476,NULL,TIP Dresser (KYOKUTOH. CDK-BAYO),6,NULL,NULL
+481,NULL,Tip Dresser Air MIEKU (ETD - 18A),6,NULL,NULL
+484,NULL,Conveyor for Kaizen Line,3,NULL,NULL
+485,NULL,AC SPLIT 2 PK untuk Ruang Enginnering, QADC, Store Room,4,NULL,NULL
+487,NULL,Polybox type 6044 Project K81A PT. EMI,3,NULL,NULL
+493,NULL,Polybox type 6044 Project X45 PT. EMI,3,NULL,NULL
+494,NULL,Mobile File Cabinet ALBA untuk FA Dept.,5,NULL,NULL
+495,NULL,Mobile File Cabinet ALBA untuk Engineering Dept.,5,NULL,NULL
+496,NULL,Absolute Dig Caliper,4,NULL,NULL
+503,NULL,Pallet Pillar Comp Deck Front Side R (JA0),3,NULL,NULL
+504,NULL,AC Daikin 2 PK for CMM Room,4,NULL,NULL
+505,NULL,Pollybox Marking SAI D17D FSI,3,NULL,NULL
+506,NULL,Skid Pallet D17D PT. FSI,3,NULL,NULL
+509,NULL,4 unit Handy Talky for Non Stamping,4,NULL,NULL
+510,NULL,Pembuatan Ruang Serikat SPSI,1,NULL,NULL
+511,NULL,Renovasi Ruang OHCD,1,NULL,NULL
+513,NULL,Pembuatan TPS Limbah B3 di Area Scrap,1,NULL,NULL
+514,NULL,FIling Cabinet Alba FC-103 for Chief Security,5,NULL,NULL
+516,NULL,Polybox Type 6044 Project EMI,3,NULL,NULL
+517,NULL,Skid Palet Project D30D PT. FSI,3,NULL,NULL
+518,NULL,CATIA License,11,NULL,NULL
+520,NULL,AC Split 2 PK (3 unit), AC Split 1 PK (1 unit) for Director Area,4,NULL,NULL
+522,NULL,Cutting Whell Merk Bosch 14",4,NULL,NULL
+523,NULL,AC Split 2 PK Merk DAIKIN 3 unit Ruang CNC Engineering,4,NULL,NULL
+525,NULL,Box Plastik Rabit warna kuning untuk Part Rail Seat Track D30D, D17D PT. FSI,3,NULL,NULL
+526,NULL,Pembuatan Lift (Ruang Perakitan Audio Sony) di Office 2 Lantai 2,1,NULL,NULL
+528,NULL,Robot CO for FSI Project,6,NULL,NULL
+529,NULL,Polybox Type 6033 D30D PT. FSI,3,NULL,NULL
+533,NULL,Mesin SSW NDZ-070-41BSA-G-D,6,NULL,NULL
+531,NULL,Pollybox Type 6033  HPM Project,3,NULL,NULL
+534,NULL,1 unit Projector for Training Room,4,NULL,NULL
+535,NULL,AC Split Daikin 2 PK for Lobby Office,4,NULL,NULL
+538,NULL,Laptop Intel Core i5 and Core i7 for QC Dept,7,NULL,NULL
+539,NULL,Floor Carpet for Vice President Room,5,NULL,NULL
+540,NULL,Measuring Table for Faro,4,NULL,NULL
+541,NULL,Box plastik rabit warna biru untuk Part Rail Seat Track, D30D & D17D PT. FSI,3,NULL,NULL
+542,NULL,Polybox Type 6033 + partisi (20 hole) D30D PT. FSI,3,NULL,NULL
+545,NULL,Software Windows and Software Ms. Office,9,NULL,NULL
+546,NULL,Panasonic Ceiling Fan 56" Ey 153 Wp,4,NULL,NULL
+548,NULL,Polybox Type 6053 (4 hole) warna biru EMI Project,3,NULL,NULL
+549,NULL,Filling Cabinet Alba for OHCD manager,5,NULL,NULL
+550,NULL,Mobile Cabinet ALBA MF 4-18 untuk Quality Dept.,5,NULL,NULL
+553,NULL,2 unit HT for Warehouse,4,NULL,NULL
+556,NULL,1  Unit Samsung Smart TV 40 Inch Curved UHD UA40K6300,4,NULL,NULL
+557,NULL,Human Resource Management System (HRMS),9,NULL,NULL
+565,NULL,Printer Zebra ZT230 for Label Asset,7,NULL,NULL
+570,NULL,Mobile File Alba Type MF 4-18 (16 CPTS) for Marketing,5,NULL,NULL
+571,NULL,Panabord untuk ruang meeting Project HPM,4,NULL,NULL
+572,NULL,Counter Sensor Spot System PLC,3,NULL,NULL
+573,NULL,Honda Mobilio type E - CVT 2 unit,10,NULL,NULL
+574,NULL,Honda BR-V type E - CVT,10,NULL,NULL
+575,NULL,Meja 6 unit dan kursi 12 unit untuk Ruang Project SIM,5,NULL,NULL
+577,NULL,Panaboard 1 unit untuk Ruang Project SIM,4,NULL,NULL
+578,NULL,Projector 1 unit untuk Ruang Project SIM,4,NULL,NULL
+579,NULL,Softboard untuk Ruang Project YHA - SIM,4,NULL,NULL
+580,NULL,Water Dispenser untuk Ruang Project SIM,4,NULL,NULL
+669,NULL,Air Screwdriver KW 0800260,3,NULL,NULL
+582,NULL,Kursi Staff Zuan (merah-hitam) 8 unit dan Meja Uno UOD 8 unit,5,NULL,NULL
+585,NULL,Kursi Staff Zuan (merah-hitam) 11 unit untuk Office Engineering & Ruang Meeting,5,NULL,NULL
+599,NULL,Laptop ASUS A455LF-WX040D untuk Dept. Marketing,7,NULL,NULL
+600,NULL,Canon EOS 1200D,4,NULL,NULL
+601,NULL,Printer Zebra ZT230 untuk Project SONY,7,NULL,NULL
+602,NULL,Water Dispenser untuk Ruang Project PT. HPM,4,NULL,NULL
+605,NULL,Pallet Sill, Frame, Roof A-F (Standard Packing HPM),3,NULL,NULL
+606,NULL,Sling Baja (Line B1 & B4),3,NULL,NULL
+607,NULL,Standard Packing MMKI 4L45W Event PJ LHD,3,NULL,NULL
+670,NULL,Kasur Inoac Foam 200*120*15 cm,4,NULL,NULL
+361,NULL,HT Onlica 4 unit,4,NULL,NULL
+543,NULL,Spot Gun Robot With Accessories MMKI Project,6,NULL,NULL
+544,NULL,Timer for Spot Gun MMKI Project,6,NULL,NULL
+552,NULL,Skid Palet Plastik Marking - Black PT. Fsi,3,NULL,NULL
+559,NULL,Filling Cabinet Alba FC 102 for Vice President,5,NULL,NULL
+560,NULL,Steelrule & Tapper (Quality Equipment),4,NULL,NULL
+561,NULL,Tig Welding machine Panasonic YC-300TR6,3,NULL,NULL
+562,NULL,Box Plastik Rabbit Biru 6044,3,NULL,NULL
+563,NULL,Box Plastik Rabbit Biru 6053 (4 hole),3,NULL,NULL
+564,NULL,Partisi (100 hole),3,NULL,NULL
+568,NULL,Dispenser Hot/Cool HANKEN HDWZ088,4,NULL,NULL
+576,NULL,Komputer PC HP Pavilion 3 unit & Scanner Barcode 3 unit for SONY Project,7,NULL,NULL
+603,NULL,Notebook ASUS for Stamping Manager,7,NULL,NULL
+604,NULL,Whiteboard Magnetic Double Face,4,NULL,NULL
+616,NULL,Printer Epson L365 for Marketing,7,NULL,NULL
+617,NULL,Softboard Coklat 2 sheet untuk Ruang Project SIM,5,NULL,NULL
+618,NULL,Small Blue Board for Vice President Room,4,NULL,NULL
+619,NULL,Kursi kayu untuk ruang Vice President,5,NULL,NULL
+620,NULL,Printer Epson I1300 A3 untuk Enginnering Room,7,NULL,NULL
+633,NULL,Digital Camera for QEMS,4,NULL,NULL
+657,NULL,Speaker Portable with Microphone Wireless,4,NULL,NULL
+658,NULL,ASUS Business Notebook P2430UJ-WO0061E untuk Plant Director (Bpk. Wahyu Dhono),7,NULL,NULL
+659,NULL,1 unit AC Daikin 2 PK for QA Room,4,NULL,NULL
+664,NULL,Motor Dolly Kymco Bebek (No Matic),2,NULL,NULL
+666,NULL,Tooling 4P45 MMKI,6,NULL,NULL
+668,NULL,Car Audio Test Equipments,6,NULL,NULL
+682,NULL,CF Stiff Front Floor Frame RH (TG4R),3,NULL,NULL
+685,NULL,Steel Ruler 150mm & Taper Gauge,4,NULL,NULL
+726,NULL,Kursi deret untuk Mushola Office 1,5,NULL,NULL
+727,NULL,Laptop untuk Manager PPIC,7,NULL,NULL
+728,NULL,Pembangunan penambahan area parkir,1,NULL,NULL
+729,NULL,Air Hydraulic Riveter Gun & Air Hydraulic Riveter Nut Gun,3,NULL,NULL
+730,NULL,Hand Grinding Electric 4",3,NULL,NULL
+731,NULL,Mitutoyo Digital Caliper 150 mm & Tapper Gauge 150 mm,3,NULL,NULL
+732,NULL,Kipas Angin (Ceiling Fan) Panasonic F-EY1511,3,NULL,NULL
+734,NULL,Press Machine Merk Danly-FMI Mecfond Tipe S4-900-4572-2438,6,NULL,NULL
+447,NULL,Laptop ASUS X450CC - WX284D,7,NULL,NULL
+449,NULL,AC 2 PK 5 unit,4,NULL,NULL
+465,NULL,DIE GRINDER 6mm 24000 RPM,3,NULL,NULL
+466,NULL,White Board 120x240 cm,4,NULL,NULL
+492,NULL,Multihead mesin drill untuk project 077 EMI,6,NULL,NULL
+551,NULL,Printer A3 for Purchasing Dept,7,NULL,NULL
+558,NULL,Renovasi Talang Gedung A-B,1,NULL,NULL
+613,NULL,PC HP ProOne 400G2 for Marketing,7,NULL,NULL
+624,NULL,Laptop ASUS Notebook untuk Tooling Manager,7,NULL,NULL
+625,NULL,Vernier Caliper 300mm Digital Mitutoyo,3,NULL,NULL
+626,NULL,Gerinda Hitachi 100 mm di Line Finishing,3,NULL,NULL
+629,NULL,Hardisc 1TB,7,NULL,NULL
+630,NULL,HP Desktop All in One 2 units for PPIC,7,NULL,NULL
+733,NULL,Kipas Angin 18" CKE ESN-D18/1,3,NULL,NULL
+637,NULL,Box Plastik Rabbit Biru 6044 + Partisi CL (20 Hole),3,NULL,NULL
+497,NULL,Rak Line Store HPM,3,NULL,NULL
+498,NULL,Rak Line Store FSI,3,NULL,NULL
+499,NULL,Polybox Making PT. FSI,3,NULL,NULL
+500,NULL,Kipas 18" CKE,3,NULL,NULL
+501,NULL,Rak Line Store EMI,3,NULL,NULL
+502,NULL,Pallet Besi / Inside dan Pallet Type A, B, C Model YL 8 PT. SIM,3,NULL,NULL
+521,NULL,Roamer Absolute Arm 7525SE 7 Axis (Portable Measuring Arm),3,NULL,NULL
+554,NULL,1 unit Laptop ASUS for Asmen Engineering,7,NULL,NULL
+555,NULL,AC Split 2 PK Daikin FTE50KV 14 - 2 Unit for Audio Sony Room,4,NULL,NULL
+569,NULL,Caliper Digital (Mitutoyo),4,NULL,NULL
+593,NULL,Pollybox Type 6033 FSI D30D & D17D Project,3,NULL,NULL
+621,NULL,PENJUALAN MESIN STAR MASTER DRIVEN PLATE 077,6,NULL,NULL
+622,NULL,PENJUALAN POLLYBOX 6053 (4 hole) warna biru EMI Project,3,NULL,NULL
+623,NULL,PENJUALAN Box Plastik Rabbit Biru 6053 (4 hole),3,NULL,NULL
+628,NULL,Meja 6 unit, Kursi 9 unit, Laci 3 unit untuk staff baru & ruang meeting Marketing,5,NULL,NULL
+644,NULL,Box Plastik Rabbit Kuning 6033,3,NULL,NULL
+645,NULL,Skid Plastik Hitam 110 x 110,3,NULL,NULL
+646,NULL,Dies Project YHA Phase 2,3,NULL,NULL
+647,NULL,Dies Project YHA Phase 2,3,NULL,NULL
+648,NULL,Rak Besi Store Room 2 x 1,5 M,3,NULL,NULL
+649,NULL,Fuji Die Grinders Type FG-26-20, Fujiangle Grinders Type FA-2C-1 & FA-4CH-1,3,NULL,NULL
+650,NULL,Fuji Die Grinders Type FG-13-2 & Type FG-13-20, Fuji Straight Grinders Type FG-3H-1,3,NULL,NULL
+651,NULL,Standard Packing Pallet for Project MMKI 4L45W (Event PT),3,NULL,NULL
+652,NULL,Standard Packing Pallet for Project MMKI 4L45W for Event PJ,3,NULL,NULL
+653,NULL,Standard Packing Pallet for Project MMKI 4L45W Event PT,3,NULL,NULL
+654,NULL,Tip Dresser Air (Meiku. Cap Tip Dresser:ETD-18A),3,NULL,NULL
+655,NULL,Counter Spot PSW,3,NULL,NULL
+656,NULL,SIM YHA C-16243 & 16244,3,NULL,NULL
+507,NULL,Ball Valve 1" 2",3,NULL,NULL
+508,NULL,Polybox Type 6033 marking SAI-FSI,3,NULL,NULL
+598,NULL,HT Motorola CP-1660 UHF 4 unit untuk Dept. Stamping,4,NULL,NULL
+612,NULL,CNC Bending Machine for 4P45 Project,6,NULL,NULL
+515,NULL,AC for Line Machining,4,NULL,NULL
+524,NULL,AC Daikin 1/2 PK for Vice President Room,4,NULL,NULL
+527,NULL,Robot Welding With Accecories for MMKI Project 4L45W,6,NULL,NULL
+594,NULL,Palet External HPM 2TQ,3,NULL,NULL
+595,NULL,Fast Blank License,11,NULL,NULL
+596,NULL,Meeting Table Set Office 1 lantai 2,5,NULL,NULL
+609,NULL,UniFi G3 CCTV Video Camera,4,NULL,NULL
+610,NULL,Pneumatic Riveting Nut Gun King 410 for 4P45 Project,3,NULL,NULL
+611,NULL,Air Rivet Gun KW 0800310 for 4P45 Project,3,NULL,NULL
+686,NULL,Box Plastik Rabbit Biru 6044 + Partisi CL (20 Hole),3,NULL,NULL
+687,NULL,Box Plastik Rabbit Biru 6044 + Partisi CL (20 Hole),3,NULL,NULL
+688,NULL,Box Plastik Rabbit Biru 6044 + Partisi CL (20 Hole),3,NULL,NULL
+720,NULL,Coffee Maker,4,NULL,NULL
+532,NULL,Relayout Ruang Meeting Lobby Office 1,1,NULL,NULL
+586,NULL,Printer EPSON L655 for Purchasing,7,NULL,NULL
+587,NULL,Jig Check Hook, Lever and Hinge for FSI Project,3,NULL,NULL
+588,NULL,New Measurement Tools for QC,4,NULL,NULL
+589,NULL,Steel ruler & Taper Gauge 11 unit for Engineering,4,NULL,NULL
+590,NULL,BSJ WRC300A (WATER RECISRCULATOR),3,NULL,NULL
+591,NULL,DRILL CHUCK INT-16-BT50,3,NULL,NULL
+592,NULL,Rak PC Store Step 2,3,NULL,NULL
+597,NULL,Pollybox Type 6644 EMI D30D Project,3,NULL,NULL
+614,NULL,Alat Ukur (taper gauge & steel ruler) Engineering,4,NULL,NULL
+615,NULL,IP Phone Production Dept. Non Stamping,4,NULL,NULL
+642,NULL,Probe for CMM (Ruby Ball Styli - A5003-0033) A=1.0, B=20.0, (Ruby Ball Styli - A5003-8876) A=1.0, B=15.0,3,NULL,NULL
+660,NULL,CCTV UBNT G3 Dome Indoor & Series Outdoor,7,NULL,NULL
+661,NULL,Desktop Mini PC for Khun Panrit,7,NULL,NULL
+708,NULL,Update License Software CATIA,9,NULL,NULL
+709,NULL,Laptop ASUS A456UR for Marketing,7,NULL,NULL
+710,NULL,Komputer Desktop PC for New Member QEMS,7,NULL,NULL
+711,NULL,Mobile File Cabinet for QEMR Dept.,5,NULL,NULL
+712,NULL,Machine RONDCOM (No. Reg : 1612001),6,NULL,NULL
+725,NULL,Server Dell R730,7,NULL,NULL
+536,NULL,1 Unit  AC Split Daikin 2 PK untuk Ruang Meeting Bogor,4,NULL,NULL
+537,NULL,1 Unit  Exhaust Fan Besar Diameter 44"  untuk Area Plant A (Welding Area),3,NULL,NULL
+547,NULL,1 Set Meja + Kursi for Marketing Director,5,NULL,NULL
+566,NULL,Rak PC Store,3,NULL,NULL
+567,NULL,Renovasi Aliran Sungai di Plant F,1,NULL,NULL
+583,NULL,1  Unit AC Split Daikin 2 PK Type: FTE20KV 14 for Office Engineering,4,NULL,NULL
+584,NULL,HP Desktop All in One for Delivery Room,7,NULL,NULL
+662,NULL,Laptop ASUS ROG GL553VD-Hitam for Manager PPIC + Hardisk 500GB,7,NULL,NULL
+696,NULL,Jig Check Bending (Pipe Fuel Tank) - PT. HPM,3,NULL,NULL
+697,NULL,Dial Indicating Torque Screwdriver,3,NULL,NULL
+698,NULL,Mesin Gerinda Tangan Angin & Baby Gerinda Angin Cek Merk Bosch,3,NULL,NULL
+699,NULL,Kipas Angin 18" CKE ESN-D18/1,3,NULL,NULL
+700,NULL,Mesin Gerinda Tangan Listrik & Bor Listrik Merk Bosch dia 13 mm,3,NULL,NULL
+701,NULL,Tourge Gauge Wrench M5-M12,3,NULL,NULL
+702,NULL,Baby Gerinda,3,NULL,NULL
+703,NULL,Jig Audio SONY (SONY-4L45W-ME-16035),3,NULL,NULL
+704,NULL,Mitutoyo Digital Caliper 150 mm & Bench Vice 6",3,NULL,NULL
+705,NULL,Mitutoyo Digital Caliper 150 mm & Bench Vice 6",3,NULL,NULL
+706,NULL,Digital Camera,4,NULL,NULL
+707,NULL,Laptop ASUS A456UR for Sect. Head MTN Mr. Berton,7,NULL,NULL
+722,NULL,CANON PIXMA G3000 All in One Ink Tank Printer,7,NULL,NULL
+723,NULL,EPSON L655,7,NULL,NULL
+432,NULL,AC Split 2 PK untuk David Yanto's Room,4,NULL,NULL
+438,NULL,Polished Machine for QC,3,NULL,NULL
+627,NULL,Desktop Mini PC (INTEL NUC6i7KYK) for President Room,7,NULL,NULL
+680,NULL,Liefter Warehouse,3,NULL,NULL
+636,NULL,Drill Cuhck INT-16-BT40,3,NULL,NULL
+663,NULL,Rack for Raw Material,3,NULL,NULL
+641,NULL,Penggantian Atap Seng & Penambahan Talang Paralon Gantung di Gd. B,1,NULL,NULL
+667,NULL,Softboard 180 x 120 cm (Cokelat) for Project HPM Meeting Room,5,NULL,NULL
+671,NULL,AC Split 1 PK DAIKIN FT25HV14, Lemari Es SHARP SJ-19MKIITS, Water Dispenser SANKEN HWD Z-88,4,NULL,NULL
+674,NULL,PC Desktop HP All in One Pro One 400 G2 [T8V70PA] (Mr. Topan),7,NULL,NULL
+675,NULL,Laptop ASUS A456UR Mkt Eng (Mr. Ervan),7,NULL,NULL
+676,NULL,Tapper 15 mm Shinwa & Steelrule 150 mm Shinwa,4,NULL,NULL
+677,NULL,Tapper 15 mm Shinwa,4,NULL,NULL
+678,NULL,Tapper 15 mm Shinwa & Tapper Gauge 15 mm Benz,4,NULL,NULL
+679,NULL,Tapper 15 mm Shinwa & Steelrule 150 mm Shinwa,4,NULL,NULL
+681,NULL,Liefter Warehouse,3,NULL,NULL
+683,NULL,TIP DRESSER (MEKU. CAP TIP DRESSER : ETD-18A),3,NULL,NULL
+689,NULL,CF Project YHA YHA SUZUKI,3,NULL,NULL
+690,NULL,SIM YHA C 16236-16246,3,NULL,NULL
+691,NULL,C/F 65727TF0 3000, 65742TG1 T000H1, 65777TF0 3000,3,NULL,NULL
+692,NULL,C/F 65613SCD3002, 65743TG1 T000H1, 65793TG1 T000H1,3,NULL,NULL
+693,NULL,Meja + Kursi Standar Director for OHCD Room,5,NULL,NULL
+694,NULL,CCTV untuk toilet office 2,4,NULL,NULL
+695,NULL,AC untuk Ruang Quality 2PK,4,NULL,NULL
+714,NULL,Spotron Pressure Gauge 1 MPA,3,NULL,NULL
+715,NULL,CF Side Member Assy RR FL RH (5253AG90),3,NULL,NULL
+716,NULL,Vertex VH06,3,NULL,NULL
+717,NULL,Welding Checker Amada Miyaci MM315B,3,NULL,NULL
+718,NULL,Pembuatan Supply Gas Acom,3,NULL,NULL
+719,NULL,LPG 50 Kg,3,NULL,NULL
+721,NULL,HP Laserjet P1102 untuk IMS,7,NULL,NULL
+724,NULL,CNC Bending Machine CHIAO SENG CNC-65TDRE,6,NULL,NULL

@@ -1,0 +1,304 @@
+<style type="text/css">
+*{
+font-family: Arial;
+margin:0px;
+padding:0px;
+}
+@page {
+ margin-left:3cm 2cm 2cm 2cm;
+}
+table.grid{
+width:20.99cm ;
+font-size: 12px;
+border-collapse:collapse;
+}
+table.grid th{
+	padding:5px;
+}
+table.grid th{
+background: #F0F0F0;
+border-top: 0.2mm solid #000;
+border-bottom: 0.2mm solid #000;
+text-align:center;
+border:1px solid #000;
+}
+table.grid tr td{
+	padding:2px;
+	border-bottom:0.2mm solid #000;
+	border:1px solid #000;
+}
+h1{
+font-size: 18px;
+}
+h2{
+font-size: 14px;
+}
+h3{
+font-size: 12px;
+}
+p {
+font-size: 10px;
+}
+center {
+	padding:8px;
+}
+.atas{
+display: block;
+width:20.99cm ;
+margin:0px;
+padding:0px;
+}
+.kanan tr td{
+	font-size:12px;
+}
+.attr{
+font-size:9pt;
+width: 100%;
+padding-top:2pt;
+padding-bottom:2pt;
+border-top: 0.2mm solid #000;
+border-bottom: 0.2mm solid #000;
+}
+.pagebreak {
+width:20.99cm ;
+page-break-after: always;
+margin-bottom:10px;
+}
+.akhir {
+width:20.99cm ;
+font-size:13px;
+}
+.page {
+width:20.99cm ;
+font-size:12px;
+padding:10px;
+}
+
+</style>
+<div class="atas">
+<table width="100%">
+<tr>
+	
+    </td>
+	<td width="100%" valign="top" style="alignment-adjust: middle;">
+    	 
+ <table class='kanan' width='100%'>
+ <tr>
+ <td colspan='2'>Downloaded by</td>
+ <td width='5'  colspan='4'>: Administrator</td>
+ </tr>
+  <tr>
+ <td colspan='2'>Date</td>
+ <td width='5' colspan='4'>: 29-03-2017 12:03</td>
+ </tr>
+ 
+ <tr>
+ <td colspan='2'>Doc. Date</td>
+ <td width='5' colspan='4'>: 29-03-2017</td>
+ </tr>
+
+ <tr>
+ <td colspan='2'>Source</td>
+ <td width='5' colspan='4'>: IMS</td>
+ </tr>
+ </table>    </td>
+</tr>    
+</table>
+</div>
+<table class="grid" width="100%">
+<tr>
+<th>No.</th>
+<th>Customer</th>
+<th>So Number</th>
+<th>Promise Date</th>
+<th>Line</th>
+<th>PartNumber</th>
+<th>PartName</th>
+<th>Qty SO</th>
+<th>Amount SO</th>
+<th>Qty Delivery</th>
+<th>Amount Delivery</th>
+<th>Qty Gap</th>
+<th>Amount Gap</th>
+</tr>   
+   <tr>
+<td align="center" width="20">1</td>
+<td align="left" width="100" >MKM</td>
+<td align="left" width="40" >SAI/SO/1702057</td>
+<td align="left" width="40" >29-03-2017</td>
+<td align="left" width="20">26</td>
+<td align="left" width="300">MK403055</td>
+<td align="left" width="300">BEAM ASSY FRONT DOOR RH  ( ATDF 14 )</td>
+<td align="left" width="40" >240</td>
+<td align="left" width="40" >3,171,360</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >-240</td>
+<td align="left" width="40" >-3,171,360</td>
+  </tr>
+       <tr>
+<td align="center" width="20">2</td>
+<td align="left" width="100" >MKM</td>
+<td align="left" width="40" >SAI/SO/1702057</td>
+<td align="left" width="40" >29-03-2017</td>
+<td align="left" width="20">14</td>
+<td align="left" width="300">MK402208</td>
+<td align="left" width="300">REINF. ROOF DECK RR RH ( TDBR 4R )</td>
+<td align="left" width="40" >240</td>
+<td align="left" width="40" >493,440</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >-240</td>
+<td align="left" width="40" >-493,440</td>
+  </tr>
+       <tr>
+<td align="center" width="20">3</td>
+<td align="left" width="100" >MKM</td>
+<td align="left" width="40" >SAI/SO/1702057</td>
+<td align="left" width="40" >29-03-2017</td>
+<td align="left" width="20">46</td>
+<td align="left" width="300">MK676275</td>
+<td align="left" width="300">BRACE ASSY RR PILLAR LH  (ATDBR 7)</td>
+<td align="left" width="40" >240</td>
+<td align="left" width="40" >338,400</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >-240</td>
+<td align="left" width="40" >-338,400</td>
+  </tr>
+       <tr>
+<td align="center" width="20">4</td>
+<td align="left" width="100" >MKM</td>
+<td align="left" width="40" >SAI/SO/1702057</td>
+<td align="left" width="40" >29-03-2017</td>
+<td align="left" width="20">18</td>
+<td align="left" width="300">MK402564M</td>
+<td align="left" width="300">BRACE RR PILLAR RH (TDBR 5)</td>
+<td align="left" width="40" >240</td>
+<td align="left" width="40" >338,400</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >-240</td>
+<td align="left" width="40" >-338,400</td>
+  </tr>
+       <tr>
+<td align="center" width="20">5</td>
+<td align="left" width="100" >MKM</td>
+<td align="left" width="40" >SAI/SO/1702057</td>
+<td align="left" width="40" >29-03-2017</td>
+<td align="left" width="20">6</td>
+<td align="left" width="300">MK402204</td>
+<td align="left" width="300">REINF. ROOF DECK FR RH ( TDBR 3R )</td>
+<td align="left" width="40" >240</td>
+<td align="left" width="40" >324,960</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >-240</td>
+<td align="left" width="40" >-324,960</td>
+  </tr>
+       <tr>
+<td align="center" width="20">6</td>
+<td align="left" width="100" >MKM</td>
+<td align="left" width="40" >SAI/SO/1702057</td>
+<td align="left" width="40" >29-03-2017</td>
+<td align="left" width="20">38</td>
+<td align="left" width="300">MK403861</td>
+<td align="left" width="300">REINF. RR PILLAR LOWER LH ( TDBR 9 L )</td>
+<td align="left" width="40" >240</td>
+<td align="left" width="40" >346,560</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >-240</td>
+<td align="left" width="40" >-346,560</td>
+  </tr>
+       <tr>
+<td align="center" width="20">7</td>
+<td align="left" width="100" >MKM</td>
+<td align="left" width="40" >SAI/SO/1702057</td>
+<td align="left" width="40" >29-03-2017</td>
+<td align="left" width="20">10</td>
+<td align="left" width="300">MK402207</td>
+<td align="left" width="300">REINF. ROOF DECK RR LH ( TDBR 4L )</td>
+<td align="left" width="40" >240</td>
+<td align="left" width="40" >493,440</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >-240</td>
+<td align="left" width="40" >-493,440</td>
+  </tr>
+       <tr>
+<td align="center" width="20">8</td>
+<td align="left" width="100" >MKM</td>
+<td align="left" width="40" >SAI/SO/1702057</td>
+<td align="left" width="40" >29-03-2017</td>
+<td align="left" width="20">42</td>
+<td align="left" width="300">MK403862</td>
+<td align="left" width="300">REINF. RR PILLAR LOWER RH ( TDBR-9R )</td>
+<td align="left" width="40" >240</td>
+<td align="left" width="40" >346,560</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >-240</td>
+<td align="left" width="40" >-346,560</td>
+  </tr>
+       <tr>
+<td align="center" width="20">9</td>
+<td align="left" width="100" >MKM</td>
+<td align="left" width="40" >SAI/SO/1702057</td>
+<td align="left" width="40" >29-03-2017</td>
+<td align="left" width="20">30</td>
+<td align="left" width="300">MK403851</td>
+<td align="left" width="300">REINF. DOOR STRIKER LH  ( ATDBR 10 L )</td>
+<td align="left" width="40" >240</td>
+<td align="left" width="40" >333,600</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >-240</td>
+<td align="left" width="40" >-333,600</td>
+  </tr>
+       <tr>
+<td align="center" width="20">10</td>
+<td align="left" width="100" >MKM</td>
+<td align="left" width="40" >SAI/SO/1702057</td>
+<td align="left" width="40" >29-03-2017</td>
+<td align="left" width="20">2</td>
+<td align="left" width="300">MK402203</td>
+<td align="left" width="300">REINF. ROOF DECK FR LH ( TDBR 3L )</td>
+<td align="left" width="40" >240</td>
+<td align="left" width="40" >324,960</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >-240</td>
+<td align="left" width="40" >-324,960</td>
+  </tr>
+       <tr>
+<td align="center" width="20">11</td>
+<td align="left" width="100" >MKM</td>
+<td align="left" width="40" >SAI/SO/1702057</td>
+<td align="left" width="40" >29-03-2017</td>
+<td align="left" width="20">34</td>
+<td align="left" width="300">MK403852</td>
+<td align="left" width="300">REINF. DOOR STRIKER RH  ( ATDBR 11R )</td>
+<td align="left" width="40" >240</td>
+<td align="left" width="40" >333,600</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >-240</td>
+<td align="left" width="40" >-333,600</td>
+  </tr>
+       <tr>
+<td align="center" width="20">12</td>
+<td align="left" width="100" >MKM</td>
+<td align="left" width="40" >SAI/SO/1702057</td>
+<td align="left" width="40" >29-03-2017</td>
+<td align="left" width="20">22</td>
+<td align="left" width="300">MK403054</td>
+<td align="left" width="300">BEAM ASSY FRONT DOOR LH  ( ATDF 15L )</td>
+<td align="left" width="40" >240</td>
+<td align="left" width="40" >3,171,360</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >0</td>
+<td align="left" width="40" >-240</td>
+<td align="left" width="40" >-3,171,360</td>
+  </tr>
+    </table></table><div class='page' align='center' colspan='8'>Page 1 of 1</div>

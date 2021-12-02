@@ -1,0 +1,206 @@
+<?php
+class ReportMaterial extends CI_Controller{
+function __construct(){
+ parent::__construct();
+ $this->load->model(array('ReportMaterial_model','app_model'));
+ $this->load->library(array('form_validation','template','template2'));
+ $cek = $this->session->userdata('TrcMaterial')=='1';
+ if(!$this->session->userdata('username')){ redirect('welcome');  } 
+ elseif(empty($cek)){ redirect('welcome'); }}
+    
+function index(){
+ $d['title']="Home";
+ $text5 = "SELECT * FROM M_QCCheck WITH (NOLOCK) WHERE Category LIKE '%STP%' ";
+ $d['M_QCCheck'] = $this->app_model->manualQuery($text5);
+ $text6 = "SELECT * FROM M_Shift2 WITH (NOLOCK)";
+ $d['M_Shift'] = $this->app_model->manualQuery($text6);
+ $text2 = "SELECT * FROM M_Partner WHERE Category='RM' ORDER BY id DESC" ;
+ $d['MListPartner'] = $this->app_model->manualQuery($text2); 
+ $text3 = "SELECT * FROM MonitoringRMListCust ORDER BY Code ASC ";
+ $d['l_cust'] = $this->app_model->manualQuery($text3);
+        
+//Time SERVER,
+date_default_timezone_set('Asia/Jakarta');
+$DocDate	            = date('d-m-Y');
+$d['DocDateReport_2']= date('d-m-Y');
+$d['DocDateReport_1'] = strtotime('-1 day',strtotime($d['DocDateReport_2']));
+$d['DocDateReport_1'] = date('d-m-Y', $d['DocDateReport_1']);
+$d['DocDateReport_2']= $DocDate ;
+$this->template->display('ReportMaterial/index',$d); }
+    
+function MasterList(){
+$id = $this->input->post('kode');    
+$DB = $this->ReportMaterial_model->MasterList($id);
+$data['MListProduct']=$DB->result();
+$this->load->view('ReportMaterial/master_list',$data); } 
+
+public function DataRecord(){
+ $d['judul']= "Transaksi Material Masuk" ;
+ $id = $this->uri->segment(3);
+ $text = "SELECT * FROM RMStock WHERE ItemID='$id'";
+ $data = $this->app_model->manualQuery($text);
+ if($data->num_rows() > 0){
+ foreach($data->result() as $db){
+ $d['ItemID']	    = $db->ItemID ; 
+ $d['PartNo']	= $db->PartNo ;
+ $d['PartName']	= $db->PartName ;
+ $d['IDCust']	    = $db->IDCust ;
+ $d['CustName']	    = $db->CustName ;
+ $d['Stock']	    = $db->BalMat ;
+ }
+ }else{}
+ 
+ $DB_in = $this->ReportMaterial_model->ListMaterialIn($id);
+ $d['list_in']=$DB_in->result();
+ $d['num_in'] = $DB_in->num_rows();
+ 
+ $DB_out = $this->ReportMaterial_model->ListMaterialOut($id);
+ $d['list_out']=$DB_out->result();
+ $d['num_out'] = $DB_out->num_rows();
+ 
+ $DB_ret = $this->ReportMaterial_model->ListMaterialRet($id);
+ $d['list_ret']=$DB_ret->result();
+ $d['num_ret'] = $DB_ret->num_rows();
+		
+$this->template2->display('ReportMaterial/FormDetailInputMaterial',$d); }
+
+public function EditINM(){
+ $d['judul'] = "Data Product";
+ //Time SERVER,
+date_default_timezone_set('Asia/Jakarta');
+$DocDate	            = date('d-m-Y');
+$d['DocDateReport_2']= date('d-m-Y');
+$d['DocDateReport_1'] = strtotime('-1 day',strtotime($d['DocDateReport_2']));
+$d['DocDateReport_1'] = date('d-m-Y', $d['DocDateReport_1']);
+$d['DocDateReport_2']= $DocDate ;
+
+ $d['DocNumDetail2'] = $this->uri->segment(3);
+ $id = $this->uri->segment(3);
+ $text = "SELECT * FROM QTD_RawMaterial WHERE DocNumDetail='$id'";
+ $data = $this->app_model->manualQuery($text);
+ if($data->num_rows() > 0){
+ foreach($data->result() as $db){
+ $d['ItemID']                = $db->ItemID ; } }
+ $text2 = "SELECT * FROM M_Partner ORDER BY id DESC" ;
+ $d['MListPartner'] = $this->app_model->manualQuery($text2);		
+ $this->template2->display('ReportMaterial/FormEditInputMaterial',$d); }
+ 
+public function EditOUTM(){
+ $d['judul'] = "Data Product";
+ //Time SERVER,
+date_default_timezone_set('Asia/Jakarta');
+$DocDate	            = date('d-m-Y');
+$d['DocDateReport_2']= date('d-m-Y');
+$d['DocDateReport_1'] = strtotime('-1 day',strtotime($d['DocDateReport_2']));
+$d['DocDateReport_1'] = date('d-m-Y', $d['DocDateReport_1']);
+$d['DocDateReport_2']= $DocDate ;
+
+ $d['DocNumDetail2'] = $this->uri->segment(3);
+ $id = $this->uri->segment(3);
+ $text = "SELECT * FROM QTD_RawMaterial WHERE DocNumDetail='$id'";
+ $data = $this->app_model->manualQuery($text);
+ if($data->num_rows() > 0){
+ foreach($data->result() as $db){
+ $d['ItemID']                = $db->ItemID ; } }		
+ $this->template2->display('ReportMaterial/FormEditInputMaterial_Out',$d); }
+ 
+public function EditReturn(){
+ $d['judul'] = "Data Product";
+ //Time SERVER,
+date_default_timezone_set('Asia/Jakarta');
+$DocDate	            = date('d-m-Y');
+$d['DocDateReport_2']= date('d-m-Y');
+$d['DocDateReport_1'] = strtotime('-1 day',strtotime($d['DocDateReport_2']));
+$d['DocDateReport_1'] = date('d-m-Y', $d['DocDateReport_1']);
+$d['DocDateReport_2']= $DocDate ;
+
+ $d['DocNumDetail2'] = $this->uri->segment(3);
+ $id = $this->uri->segment(3);
+ $text = "SELECT * FROM QTD_RawMaterial WHERE DocNumDetail='$id'";
+ $data = $this->app_model->manualQuery($text);
+ if($data->num_rows() > 0){
+ foreach($data->result() as $db){
+ $d['ItemID']                = $db->ItemID ; } }		
+ $this->template2->display('ReportMaterial/FormEditInputMaterial_Ret',$d); }
+        
+
+function MasterList2(){
+$DB = $this->ReportMaterial_model->MasterList2();
+$data['MListProduct2']=$DB->result();
+$this->load->view('ReportMaterial/master_list2',$data); }    
+    
+public function ReadReport2(){
+$d['DocDateReport_1'] = $this->app_model->tgl_sql($this->input->post('DocDateReport_1'));
+$d['DocDateReport_2'] = $this->app_model->tgl_sql($this->input->post('DocDateReport_2'));
+$IDCust = $this->input->post('IDCust');
+$part_no = $this->input->post('part_no');
+$spec = $this->input->post('spec'); 
+$DB = $this->ReportMaterial_model->transaction_detail_report($IDCust,$part_no,$spec);
+$d['list']=$DB->result(); 
+$this->load->view('ReportMaterial/ViewReport2',$d); }
+
+function ReadReport1(){
+$ItemID = $this->input->post('ItemID3');
+$DB =$this->ReportMaterial_model->transaction_detail($ItemID);
+$d['list']=$DB->result();
+$this->load->view('ReportMaterial/ViewReport1',$d);}
+
+public function ExportReport2(){
+$d['judul']="Raw Material Stock";
+$d['DocDateReport_1'] = $this->app_model->tgl_sql($this->uri->segment(3));
+$d['DocDateReport_2']  = $this->app_model->tgl_sql($this->uri->segment(4));
+$tgl1 = $this->app_model->tgl_sql($this->uri->segment(3));
+$tgl2 = $this->app_model->tgl_sql($this->uri->segment(4));
+$IDCust = $this->uri->segment(5);
+$part_no = $this->uri->segment(7);
+$spec = $this->uri->segment(6);
+$per = date('Y-m');
+$tgl = $this->app_model->tgl_indo($per);
+$d['periode'] = $tgl ;
+$d['filter'] = 'Tanggal '.$this->app_model->tgl_indo($tgl1).' s.d '.$this->app_model->tgl_indo($tgl2);
+                      
+$DB = $this->ReportMaterial_model->transaction_detail_report($IDCust,$part_no,$spec);
+$d['list']=$DB->result(); 
+$d['num'] = $DB->num_rows();
+$this->load->view('ReportMaterial/ExportListReport2',$d); }
+
+public function ExportReport1(){
+$d['judul']="Raw Material Stock";
+$d['DocDateReport_1'] = $this->app_model->tgl_sql($this->uri->segment(3));
+$d['DocDateReport_2']  = $this->app_model->tgl_sql($this->uri->segment(4));
+$tgl1 = $this->app_model->tgl_sql($this->uri->segment(3));
+$tgl2 = $this->app_model->tgl_sql($this->uri->segment(4));
+$ItemID =  $this->uri->segment(5); 
+$d['PartNo'] = $this->uri->segment(6); 
+$DB =$this->ReportMaterial_model->transaction_detail($ItemID);
+$d['list']=$DB->result();
+$d['num'] = $DB->num_rows();
+$this->load->view('ReportMaterial/ExportListReport1',$d); }
+
+public function ReadStockCard(){
+$tgl1 = $this->app_model->tgl_sql($this->input->post('DocDateReport1'));
+$tgl2 = $this->app_model->tgl_sql($this->input->post('DocDateReport2'));
+$ItemID = $this->input->post('ItemID');
+//Time SERVER,
+date_default_timezone_set('Asia/Jakarta');
+$tgl3	= date('d-m-Y');
+$d['tgl_1'] = $this->app_model->tgl_sql($this->input->post('DocDateReport1'));
+$d['tgl_2']  = $this->app_model->tgl_sql($this->input->post('DocDateReport2'));
+$d['tgl_3']  = $this->app_model->tgl_sql($tgl3) ;
+$DB =$this->ReportMaterial_model->ReadStockCard($tgl1,$tgl2,$ItemID);
+$d['list']=$DB->result();
+$d['num'] = $DB->num_rows();
+$this->load->view('ReportMaterial/ViewStockCard',$d); }
+    
+function _set_rules(){
+$this->form_validation->set_rules('user','username','required|trim');
+$this->form_validation->set_rules('password','password','required|trim');
+$this->form_validation->set_error_delimiters("<div class='alert alert-danger'>","</div>"); }
+    
+function bikin_barcode($kode){
+$this->load->library('zend');
+$this->zend->load('Zend/Barcode');
+Zend_Barcode::render('code128', 'image', array('text'=>$kode), array());
+}       
+       
+}

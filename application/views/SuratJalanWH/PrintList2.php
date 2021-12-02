@@ -1,0 +1,221 @@
+<!-- start PrintList2.view -->
+
+<style>
+page {
+  background: white;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 0.5cm;
+  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+}
+page[size="A4"] {  
+  width: 21cm;
+  height: 29.7cm; 
+}
+page[size="A4"][layout="portrait"] {
+  width: 29.7cm;
+  height: 21cm;  
+}
+
+page[size="letter"] {  
+  width: 24.1cm;
+  /* height: 28.5cm; */ 
+}
+page[size="letter"][layout="portrait"] {
+  width: 24.1cm;
+  /* height: 28.5cm; */ 
+}
+page[size="A3"] {
+  width: 29.7cm;
+  height: 42cm;
+}
+page[size="A3"][layout="portrait"] {
+  width: 42cm;
+  height: 29.7cm;  
+}
+page[size="A5"] {
+  width: 14.8cm;
+  height: 21cm;
+}
+page[size="A5"][layout="portrait"] {
+  width: 21cm;
+  height: 14.8cm;  
+}
+
+@media screen {
+  div.divFooter {
+  }
+}
+
+@media print {
+  body, page {
+    margin: 0 auto;
+  }
+  
+  div.divFooter {
+       width: inherit;
+       position: fixed;
+       bottom: 0;
+  }  
+}
+
+.pagebreak {
+font-family:Arial, sans-serif;font-size:14px;font-weight:bold;
+width:20.99cm ;
+page-break-after: always;
+margin-bottom:10px;
+}
+
+* {
+ font-family: "Consolas";
+ font-size: 1.02em;
+}
+
+.kop {
+    font-size: 14px;
+}
+
+.images {
+  position: relative;
+  display: inline-block;
+  float: right;
+}
+
+table.header tr, table.header td,table.footer tr, table.footer td {
+    border: 2px solid black; 
+    padding: 0 10px; 
+}
+
+table.header,table.footer {
+    border-collapse: collapse;  
+}
+
+tr.tr_head th {
+  border-bottom:2px solid black;
+  border-top:2px solid black;
+}
+
+h4, h5 {
+    text-align: center;
+}
+
+tr.footqty, tr.footqty td {
+    border-top:solid 2px black;
+}
+
+</style>
+<?php
+    $g_total=0;
+    $no=1;
+    $page =1;
+    
+    //echo"<pre>";
+    //print_r($head);
+    //echo"</pre>";
+    
+    function myheader($kanan,$DocNum,$DocDate,$PONum,$DNRef,$PartnerName,$DlvAddress,$username,$CarNum,$ShipTime,$ShipCycle,$shipper,$Remark,$page,$ofPage)
+    {
+        echo "";
+        echo '<table width="100%"><tr><td width="50%">';
+        echo '<span class="kop"><b>PT. Summit Adyawinsa Indonesia</b><br>';
+        echo 'Jl. Pangkal Perjuangan (By Pass) No. 98 Tanjung Mekar<br>';
+        echo 'Karawang, Jawa Barat 41316<br>';
+        echo 'Indonesia<br>';
+        echo 'Ph: +62 267 415815 Fax: +62 267 415814</span></td>';
+        echo '<td width="50%"><div class="images"><img src="'.base_url().'assets/images/adw.png" width="250" height="59"><br><br><br><p>page: '.$page.' of '.$ofPage.'</p></div></td></tr></table>';
+        echo '<table width="100%" class="header">';
+        echo '<tr><td width="40%"><h2>Surat Jalan General</h2><span style="margin-left:200;">User: '.$username.'</span></td>';
+        echo '<td width="30%"><span class="label1">Reg No</span><p align="center"><h4>'.$DocNum.'</h4></p></td>';
+        echo '<td width="30%"><span class="label1">Date</span><p align="center"><h4>'.$DocDate.'</h4></p></td><tr>';
+        echo '<tr><td rowspan="3"><span class="label1">Ship to:</span><h4 class="partner">'.$PartnerName.'</h4><br>'.$DlvAddress.'<br><br></td>';
+        echo '<td colspan="2">Remark: '.$Remark.'</td></tr>';
+        echo '<tr><td colspan="2" align="center">Transportation Data Filled by Security</td></tr>';
+        echo '<tr><td>Car Num: '.$CarNum.'<br><br><br>Time Out: '.$ShipTime.'</td><td><p align="center">Checked By<br><br><br></p>Name: </td></tr>';
+        echo '</table>';
+        echo '<div class="row"><div class="col-md-12">&nbsp;</div></div>';
+        echo '<table width="100%" align="center" cellpadding="7" cellspacing="0">';
+        echo $kanan;
+        echo '<tbody>';
+    }
+    
+    function myfooter($username,$dept,$SectionHead,$DriverName,$ShipTime)
+    {	
+        echo "</tbody>";
+    	echo "</table>";     
+        echo '<div class="divFooter">';
+        echo '<table width="100%" class="footer"><tr><td align="center" colspan="3">Transfered Legalization</td>';
+        echo '<td align="center" colspan="2">Transfered Legalization</td></tr>';
+        echo '<tr><td width="16%" align="center" rowspan="2">Transfered By<hr style="height:35px; visibility:hidden;" /><u>'.$username.'</u><br>'.$dept.'</td><td width="18%" align="center" rowspan="2">Approve By<hr style="height:35px; visibility:hidden;" /><u>'.$SectionHead.'</u>&nbsp;<br>Sec/Div. Head</td><td width="16%" align="center" rowspan="2">Delivered By<hr style="height:35px; visibility:hidden;" /><u>'.$DriverName.'</u>&nbsp;<br>Driver</td>';
+        echo '<td colspan="2" style="border-right:none;">Time Out: '.$ShipTime.'</td></tr>';
+        echo '<tr><td style="border-right:none">Received By<hr style="height:25px; visibility:hidden;" />Name Occupation:</td><td style="border-left:none; vertical-align:top;">Signature & Comp. Stamp</td></tr>';
+        echo '</table>';
+        echo "<div style='width:100%;text-align:right;'><span>Print Date: <b>".date('d-m-Y')."</b></span></div>";
+        echo '</div>';
+    }
+    
+    function myfooter_last($qty,$username,$dept,$SectionHead,$DriverName,$ShipTime)
+    {	
+        echo "</tbody>";
+        echo "<tr class='footqty'>";
+        echo "<td colspan='4' align='right'>Total Qty:</td>";
+        echo "<td align='right'>".$qty."</td><td>&nbsp;</td>";
+        echo "</tr>";
+        echo "</table>";    
+        echo '<div class="divFooter">';
+        echo '<table width="100%" class="footer"><tr><td align="center" colspan="3">Transfered Legalization</td>';
+        echo '<td align="center" colspan="2">Transfered Legalization</td></tr>';
+        echo '<tr><td width="16%" align="center" rowspan="2">Transfered By<hr style="height:35px; visibility:hidden;" /><u>'.$username.'</u><br>'.$dept.'</td><td width="18%" align="center" rowspan="2">Approve By<hr style="height:35px; visibility:hidden;" /><u>'.$SectionHead.'</u>&nbsp;<br>Sec/Div. Head</td><td width="16%" align="center" rowspan="2">Delivered By<hr style="height:35px; visibility:hidden;" /><u>'.$DriverName.'</u>&nbsp;<br>Driver</td>';
+        echo '<td colspan="2" style="border-right:none;">Time Out: '.$ShipTime.'</td></tr>';
+        echo '<tr><td style="border-right:none">Received By<hr style="height:25px; visibility:hidden;" />Name Occupation:</td><td style="border-left:none; vertical-align:top;">Signature & Comp. Stamp</td></tr>';
+        echo '</table>';  
+        echo "<div style='width:100%;text-align:right;'><span>Print Date: <b>".date('d-m-Y')."</b></span></div>";
+        echo '</div>';     
+    }
+    
+    $kanan = '<thead>
+                <tr class="tr_head">
+                    <th width="35">NO</th>
+                    <th width="350">Product Name</th>
+                    <th>Specs</th>
+                    <th>Remark</th>
+                    <th>Quantity</th>
+                    <th>UoM</th>
+                </tr>
+            </thead>';
+        
+    foreach($data as $row)
+    {
+        if(($no%10) == 1){
+            $ofPage = ceil(($num) / 10);
+            if($no > 1){
+                myfooter($head->username,$head->Dept_Name,$head->SectionHead,$head->DriverName,$head->ShipTime);
+                echo '</page>';                  
+                echo '<div class="pagebreak"></div>';
+                $page++;
+            } 
+            echo '<page size="letter" layout="portrait">';                
+            myheader($kanan,$head->DocNum,$head->DocDate,$head->PONum,$head->DNRef,$head->PartnerName,$head->DlvAddress,$head->username,$head->CarNum,$head->ShipTime,$head->ShipCycle,$head->Shipper,$head->Remark,$page,$ofPage);
+        }
+        
+        echo '<tr>
+                <td align ="center">'.$no.'</td>
+                <td>'.$row->PartName.'</td>
+                <td>'.$row->JobNumber.'</td>
+                <td align="center">'.$row->OrderReference.'</td>
+                <td align="right">'.$row->Quantity.'</td>
+                <td>'.$row->unit.'</td>
+              </tr>';
+
+        $no++;
+        $ofPage = ceil(($num) / 10);
+    } 
+    myfooter_last($TotalQty,$head->username,$head->Dept_Name,$head->SectionHead,$head->DriverName,$head->ShipTime);
+    echo '</page>';      
+         
+?>    
+
+<script>
+    window.print();
+</script>
+
+<!-- end PrintList2.view -->

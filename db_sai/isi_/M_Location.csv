@@ -1,0 +1,28 @@
+﻿1,Factory A,NULL,PROD ASSET,1
+2,Factory B,NULL,PROD ASSET,1
+3,Factory C,NULL,PROD ASSET,1
+4,Factory D,NULL,PROD ASSET,1
+5,Factory E,NULL,PROD ASSET,1
+6,Factory F,NULL,PROD ASSET,1
+7,Office 1 - 1,NULL,ASSET,1
+8,Office 1 - 2,NULL,ASSET,1
+9,Office 2 - 1,NULL,ASSET,1
+10,Office 2 - 2,NULL,ASSET,1
+11,Office 3,NULL,ASSET,1
+12,Office Delivery,NULL,ASSET,1
+13,Pos Security 1,NULL,ASSET,1
+14,Pos Security 2,NULL,ASSET,1
+15,Pos Security 3,NULL,ASSET,1
+16,Pos Security 4,NULL,ASSET,1
+17,Area Loker,NULL,ASSET,1
+18,Kantin,NULL,ASSET,1
+19,Parkiran Motor Lantai 1,NULL,ASSET,1
+20,Parkiran Motor Lantai 2,NULL,ASSET,1
+21,Warehouse,NULL,ASSET,1
+22,Parkiran,NULL,ASSET,1
+23,Machining,NULL,ASSET,1
+24,Fabrication,NULL,ASSET,1
+25,WareHouse,NULL,BPFG,NULL
+26,Small Press,NULL,BPFG,NULL
+27,Big Press,NULL,BPFG,NULL
+28,Welding,NULL,BPFG,NULL

@@ -1,0 +1,210 @@
+﻿1,62,Asset Kantor,60,1024,86
+2,61,Pembelian BBM dan Solar di SPBU,332,1023,68
+3,61,Solar Industri,194,1023,53
+4,61,Repair Bangunan dan Gedung,218,1023,57
+5,61,Pembelian Kebutuhan GA,243,1023,53
+6,61,Pembelian Kebutuhan Harian ( Tisue, Gula, Tea, Kopi),243,1023,53
+7,61,Kebutuhan Rental Mesin Fotocopy, dan rental lainnya,244,1023,54
+8,61,Tiket Tugas Luar Kota, Dalam Kota, dalam negeri,255,1023,77
+9,61,Tiket Tugas Luar Negeri,256,1023,78
+10,61,Repair Peralatan Kantor,290,1023,59
+11,61,Repair Kendaraan,291,1023,60
+12,68,Pembelian Alat - Alat Kantor ( Komputer, Printer, Laptop, CCTV, etc),63,1028,87
+13,68,Pembelian Software baru/Instal Software,78,1028,91
+14,67,Kebutuhan Tinta,258,1027,71
+15,67,Service Komputer / Ganti Spare Part komputer,292,1027,61
+16,67,Service Jasa Non Komputer,292,1027,61
+17,51,Pembelian Alat - Alat Mesin u/ mesin baru,59,1011,84
+18,51,Pembelian Mesin baru,61,1011,85
+19,50,Repair/ Perawatan All Machine ,177,1010,25
+20,61,Sewa Forklift, Truck,195,1023,54
+21,50,Repair/ Perawatan All Plant Equipment,219,1010,58
+22,50,Repair/ Perawatan  Forklif / Truck,221,1010,60
+23,65,SPARE PART,20,1025,1
+24,65,Pembelian Aset ( Forklift, Box Palet, Palet Besi ),59,1025,84
+25,65,Kebutuhan untuk layout, packaging dll,194,1025,53
+26,65,Rental Syncrum / Truck/Build Up Delivery,195,1025,54
+27,56,STOCK  ATK,26,1016,71
+28,56,STOCK STORE ROOM,27,1016,93
+29,56,PEMBELIAN  ASET PABRIK,59,1016,84
+30,56,MEMO PERMINTAAN MPC (TOOL ROOM INVENTORY),194,1016,53
+31,56,MEMO PERMINTAAN  (CONSUMABLE),27,1016,93
+32,56,MEMO PERMINTAAN WELDING (x),194,1016,53
+33,56,MEMO PERMINTAAN ATK,258,1016,71
+34,52,Pembelian Tools Fabrikasi,194,1012,53
+35,52,Repair and maintenance tools Fabrikasi,219,1012,58
+36,53,Pembelian Asset Tools Fabrikasi,59,1013,84
+37,66,Subcont jasa manufacturing tooling,147,1026,2
+38,66,Subcont pembuatan komponen dies,147,1026,2
+39,66,Subcont pengujian / test,147,1026,2
+40,66,Subcont proses harden,147,1026,2
+41,66,Subcont proses machining,147,1026,2
+42,66,Investasi Mesin,61,1026,85
+43,66,Investasi Plant Equipment,59,1026,84
+44,66,Pembelian Material Tooling,88,1026,97
+45,57,Consumable Dies, Jig dll,194,1017,53
+46,57,Repair and maintenance Dies,219,1017,58
+47,61,Uniform Karyawan,261,1023,100
+48,61,Stationary GA,258,1023,71
+49,61,Dana sosial,260,1023,98
+50,61,Surat Tagihan Rawat Jalan (Office),237,1023,102
+51,52,Pembelian Packaging Standar,194,1012,53
+52,67,Pembelian Alat-Alat,243,1027,53
+53,62,Pembelian Furniture Kantor,62,1024,88
+54,69,Kalibrasi,194,1029,79
+56,32,Biaya Katering (50.02),161,1340,14
+57,32,Biaya Katering (50.03),191,1340,37
+58,32,Biaya Katering (60.01),239,1340,50
+59,61,Sewa Truck  (Send Item to Customer),332,1023,68
+60,61,Surat Tagihan Rawat Jalan (Produksi Stamping & Non Stamping),159,1023,12
+61,61,Surat Tagihan Rawat Jalan (QA, MTC, ENG, Logistic, PPIC, Outsourcing),189,1023,12
+62,32,Pemakaian Pulsa,253,1340,23
+63,32,Biaya Materai,298,1340,103
+64,32,Biaya Internet (Zimbra),248,1340,18
+65,32,Biaya Perawatan G5,295,1340,63
+66,32,Biaya Internet,248,1340,18
+67,69,Service Machine,177,1029,25
+68,32,Debit Note,20,1340,NULL
+70,69,Pembelian alat ukur,60,1029,86
+71,66,Investasi Under Construction,317,1026,96
+72,32,Salary Expense (50.02.01.01),150,1340,3
+73,32,Salary Expense (50.03.01.01),180,1340,26
+74,32,Salary Expense (60.01.01.00),228,1340,39
+75,32,Overtime Expense (50.02.01.03),152,1340,5
+76,32,Overtime Expense (50.03.01.03),182,1340,28
+77,32,Overtime Expense (60.01.03.00),230,1340,41
+78,32,Fee Consultant,272,1340,105
+79,51,Investasi Under construction,317,1011,96
+80,57,Investasi Under Constraction,317,1017,96
+81,32,Listrik,197,1340,16
+82,66,Pembelian bahan pembantu/perlengkapan,194,1026,53
+83,32,Avanced Payment,31,1340,104
+85,66,Subcont Manufacturing PROJECT,88,1026,97
+86,32,JOBSTREET,259,1340,81
+87,69,Pembelian Perlengkapan Quality,194,1029,53
+88,66,Sample Part,225,1026,64
+89,69,Penggantian & service spare part/kompenen,219,1029,58
+90,57,Hand Tool Dies Maintenance,194,1017,53
+91,62,Pembangunan Gedung Pabrik,57,1024,83
+92,61,Repair Furniture & Fixture,293,1023,62
+93,50,Perbaikan AC kantor,290,1010,59
+94,62,Pembelian Kendaraan,58,1024,90
+95,66,Sample PROJECT,88,1026,64
+96,66,Repair Dies, Tooling, Jig, CF etc,219,1026,58
+97,52,Pembelian/Pembuatan Packing Standard untuk Project baru (OUTHOUSE),59,1012,84
+98,53,Pembelian/Pembuatan Packing Standard untuk Project baru (Inhouse),88,1013,NULL
+99,32,Building,57,1340,83
+100,32,Export Expense,331,1340,67
+101,32,INPUT VAT,42,1340,76
+102,57,Outsources,147,1017,2
+103,57,Spare Part Dies, Jig dll,219,1017,53
+104,32,Import Expense,330,1340,66
+105,32,PPh 22,45,1340,76
+106,32,Distribution Expense,332,1340,68
+107,32,Certification,216,1340,56
+108,58,Peralatan Pabrik,59,1018,84
+109,59,Peralatan Pabrik,59,1019,84
+110,59,Tool untuk welding produksi,194,1019,53
+111,59,Peralatan Office,60,1019,86
+112,58,Tool untuk stamping produksi,194,1018,53
+113,58,Peralatan Office,60,1018,86
+114,58,Peralatan Computer,63,1018,87
+115,59,Peralatan Computer,63,1019,87
+116,59,Perbaikan area produksi,219,1019,58
+117,58,Perbaikan area produksi,219,1018,58
+118,59,Consumable ATK welding,258,1019,71
+119,56,PEMBELIAN ASET KANTOR,60,1016,86
+120,56,PEMBELIAN ASET KOMPUTER,63,1016,87
+121,56,IMPROVE GEDUNG PABRIK,57,1016,83
+122,56,PEMBELIAN ASET FURNITURE,62,1016,88
+123,68,Pembelian Alat Kantor Non Computer,60,1028,86
+124,54,Pembelian Spanduk, poster dan media lainnya untuk K3, 5S dll,259,1014,81
+125,54,Training, course & certification,286,1014,56
+126,54,Surveillance ISO TS 16949, Quality System,257,1014,72
+127,54,Pembelian aset komputer,63,1014,87
+128,54,Pembelian aset furniture,62,1014,88
+129,54,Consumable untuk K3 dan 5S,243,1014,70
+130,66,Pembelian software,78,1026,91
+131,66,Pembelian Furniture untuk Ruang Kantor Engineering,62,1026,88
+132,57,Pembelian komputer,63,1017,87
+133,57,Pembelian furniture untuk ruang kantor maintanance,62,1017,88
+134,65,Renovasi Gedung Delivery,57,1025,83
+135,56,PEMBELIAN KENDARAAN ANGKUTAN UNTUK DELIVERY/PPIC,58,1016,90
+136,56,PEMBELIAN SOFTWARE,78,1016,91
+137,69,Renovasi Gedung,57,1029,83
+138,69,Pembelian Mesin untuk aktivitas QC,61,1029,85
+139,69,Pembelian peralatan pabrik untuk aktivitas QC,59,1029,84
+140,69,Pembelian komputer,63,1029,87
+141,64,Pembelian furniture untuk ruang kerja Purchasing,62,1022,88
+142,55,Pembelian Peralatan kantor,60,1015,86
+143,55,Pembelian komputer,63,1015,87
+144,64,Perlengkapan untuk reparasi alat kantor,290,1022,59
+145,63,Perlengkapan kantor,243,1021,NULL
+147,66,Jasa Foto copy,203,1026,22
+148,57,Peralatan pabrik (regular + dies),59,1017,84
+149,32,Biaya Telephone,247,1340,17
+150,66,Perlengkapan kantor,243,1026,70
+151,64,Kebutuhan maintenance,219,1022,58
+152,32,Repair,219,1340,58
+153,32,Supplies Expenses,194,1340,53
+154,32,Insurance Life (Direct),156,1340,9
+155,32,Insurance Life (Indirect),186,1340,32
+156,32,Insurance Life (Office),234,1340,45
+157,32,Medical Allowances / Askes (Direct),159,1340,12
+158,32,Medical Allowances / Askes (Indirect),189,1340,35
+159,32,Medical Allowances / Askes (Office),237,1340,48
+160,60,Travel Oversea,256,1020,78
+161,32,TRAVEL OVERSEA,256,1340,78
+162,64,Sample Material & Part,225,1022,64
+163,60,Handphone & alat komunikasi lainnya,243,1020,70
+164,56,Sewa Forklift,195,1016,54
+165,60,Pengadaan Furniture,62,1020,88
+166,32,Training Expense,286,1340,56
+167,60,Pengadaan Laptop, HP, dll,63,1020,87
+168,50,Pembelian peralatan alat forklift,59,1010,84
+169,56,Pembelian Aset ( Forklift, Box Palet, Palet Besi ),59,1016,84
+170,66,Travel Oversea Karyawan PT. SAI,256,1026,78
+171,64,Pengadaan laptop & komputer,63,1022,87
+172,60,Stationary,258,1020,71
+173,66,Jasa Painting,147,1026,2
+174,66,Pembuatan / perbaikan tool fabrikasi,219,1026,58
+175,66,Pembelian/Pembuatan packing standar,194,1026,53
+176,64,Pembelian stationary,258,1022,71
+177,32,Inventory Usage,146,1340,1
+178,63,Stationary,258,1021,71
+179,32,TRANSPORTATION EXPENSE -  OVERSEA,256,1340,78
+180,32,THR Expense (50.02),153,1340,6
+181,32,THR Expense (50.03),183,1340,29
+182,32,THR Expense (60.08),231,1340,42
+183,64,Packing Equipment,194,1022,53
+184,32,Tooling Fee Part HPM,195,1340,54
+185,60,Rental mobil,244,1020,54
+186,66,Sewa Truck, Forklift dll,195,1026,54
+187,60,Souvenir,241,1020,69
+188,64,Pembelian Alat Komputer,63,1022,87
+189,63,Sewa mobil operasional,244,1021,54
+190,63,Sample Part,225,1021,64
+191,32,Other Allowance for production,162,1340,15
+192,32,Selisih harga di GR,96,1340,1
+193,55,Pembelian furniture,62,1015,88
+194,60,Peralatan Kantor,60,1020,86
+195,60,Selisih harga tiket pesawat,256,1020,78
+196,64,Biaya Ekspor,331,1022,67
+197,64,Biaya Impor,330,1022,66
+198,64,Sewa Kendaraan,195,1022,54
+199,63,Pembelian perlengkapan komputer,63,1021,87
+200,69,Scraping NG Part,146,1029,1
+201,32,Meeting Expense,268,1340,107
+202,54,Pembelian Stationary Office,258,1014,71
+203,32,other expense,273,1340,101
+204,32,Asuransi Mobil,193,1340,52
+205,32,Pengiriman dokumen,267,1340,55
+206,32,FG Tooling,24,1340,65
+207,32,Piutang karyawan,15,1340,108
+208,55,Stationary,258,1015,71
+209,66,Sample Expense,225,1026,64
+210,32,SAMPLE,225,1340,64
+211,55,Beban perlengkapan kantor,243,1015,53
+212,54,Pembelian buku IATF,258,1014,71
+213,61,Pembelian Kebutuhan GA untuk Produksi/Plant,194,1023,53
+214,66,Training,216,1026,56

@@ -1,0 +1,17 @@
+﻿30,RM,Raw Material,1000,5,Dept. Head,Div. Head
+50,MTN-MC,MTN Machine,1010,2,Dept. Head,Div. Head
+54,QEMR,QEMR,1014,12,Dept. Head,Div. Head
+55,FINACCT,Finance/Acc,1015,7,Dept. Head,Div. Head
+56,TR,Tool Room,1016,5,Dept. Head,Div. Head
+57,TS,Maintenance Tool,1017,2,Dept. Head,Div. Head
+58,STP,Stamping,1018,15,Dept. Head,Div. Head
+59,NSTP,Non Stamping,1019,14,Dept. Head,Div. Head
+60,BOD,BOD,1020,13,Dept. Head,Div. Head
+61,GA,GA,1023,1,Dept. Head,OHCD Director
+63,MKT,Marketing,1021,9,Dept. Head,Div. Head
+64,PUR,Purchasing,1022,3,Dept. Head,Div. Head
+65,PPIC,PPIC,1025,5,Dept. Head,Div. Head
+66,ENG,Engineering,1026,11,Dept. Head,Div. Head
+67,ICT,ICT,1027,10,Dept. Head,Div. Head
+28,SBC,Subcon,1001,5,Dept. Head,Div. Head
+69,QA,Quality,1029,4,Dept. Head,Div. Head

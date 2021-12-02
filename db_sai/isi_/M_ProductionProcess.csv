@@ -1,0 +1,16 @@
+﻿1,BL,Blank,STP,X
+2,FR,Forming,STP,X
+3,PIE,Pierching,STP,X
+4,BE,Bending,STP,X
+5,TR,Triming,STP,X
+6,SP,Separating,STP,X
+7,DR,Draw,STP,X
+8,CR,Curling,STP,X
+9,CP,Camp,STP,X
+10,BR,Burring,STP,X
+11,BN,Banishing,STP,X
+12,CUT,Cutting,STP,X
+13,RE,Restrike,STP,X
+14,FL,Flange,STP,X
+15,PS,Progressive,STP,X
+16,JG,Joggling,STP,X

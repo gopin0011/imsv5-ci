@@ -1,0 +1,43 @@
+﻿1,D1,STP,B         
+2,D2,STP,B         
+3,D3,STP,B         
+4,D4,STP,B         
+5,D5,STP,B         
+6,D6,STP,B         
+7,D7,STP,B         
+8,D8,STP,B         
+9,D9,STP,B         
+10,D10,STP,B         
+11,D11,STP,B         
+12,A1,STP,D         
+13,A2,STP,D         
+14,A3,STP,E         
+15,A4,STP,E         
+16,A5,STP,F         
+17,A6,STP,F         
+18,B1,STP,C         
+19,B2,STP,C         
+20,SSW,NON STP,A         
+21,PSW,NON STP,A         
+22,CO,NON STP,A         
+23,MACHINING,NON STP,C         
+24,B3,STP,A         
+25,B4,STP,A         
+26,P2,STP,B         
+27,P4,STP,B         
+28,P5,STP,B         
+29,P7,STP,B         
+30,P8,STP,B         
+31,P9,STP,B         
+32,P6,STP,B         
+33,WIP,NON STP,A         
+34,TS,NON STP,B         
+35,TM,NON STP,B         
+36,C,STP,C         
+37,Repair,NON STP,C         
+38,Robot,NON STP,A         
+39,WELDING,NON STP,A         
+40,SEAT TRACK,NON STP,B         
+41,P3,STP,A         
+42,ASSY SIDE STEP,NON STP,A         
+43,D12,STP,B         

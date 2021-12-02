@@ -1,0 +1,228 @@
+﻿1,PO Customer,PO
+2,SO DN,SO DN
+3,Delivery,Dlv
+4,SPP,SPP
+5,Invoice,INV
+6,Collect,COL
+7,PR RM,PR RM
+8,PR GA Consumable,PUR
+9,PO RM PAD,PO RM1
+10,PO Other PAD,PO/O
+11,GR RM PAD,GR RM1
+12,GR Other PAD,GR/O
+13,TTI RM PAD,TTI RM1
+14,TTI Other PAD,TTI OTH1
+15,Payment,PMT
+16,Cash/Bank In,CBI
+17,Cash Out,CBO
+18,Cash/Bank Mutasi,CB
+19,Cash Advance Req,CA1
+20,Cash Advance Act,CA2
+21,PR Tool Room,PR/TR
+22,PR MTN-M Consumable,MTC-C
+23,PR MTN-M Investasi,MTC-I
+24,PR PE Consumable,PE-C
+25,PR PE Investasi,PE-I
+26,PR QEMR,QEMR
+27,PR Finance/Acc,FINACT
+28,PR MTN-T,PR/TS
+29,PR Marketing,MKT
+30,PR Purchasing,TPS-P
+31,PR GA Investasi,PR/GA-I
+32,Invoice-TTI,INV-TTI
+33,Payment-Collect,Pay-Col
+34,PO Other BD,PO/BD
+35,SO Schedule,SO SC
+36,Delivery Plan,DPlan
+37,Manual Posting,MP
+38,CGR,CGR
+39,Cust Claim Receive,CCR
+40,DO Replacement,DO RPL
+41,Invoice Manual,INV-M1
+42,Collect Manual,COL-M2
+43,PR Engineering,PR ENG
+44,Cash/Bank Req (CA),CR
+45,Cash/Bank Req Cancel,CRX
+46,PR ICT Consumable,PR ICT-C
+47,PR ICT Investasi,PR ICT-I
+48,Cash/Bank Req (CO),CR1
+49,PR Subcont,PR SBC
+51,PO Subcon PAD,PO SBC1
+52,GR Subcon PAD,GR SBC1
+53,PO Trigger,PO-T
+54,SO Responder,SO Resp
+55,SO GM,SO GM
+56,Delivery GM,DO GM
+57,CGR GM,CGR GM
+58,SPP GM,SPP GM
+59,Invoice GM,INV GM
+60,TTI Subcon PAD,TTI SBC1
+61,PO RM BD,PO RM2
+62,TTI RM BD,TTI RM2
+63,GR RM BD,GR RM2
+64,PO Subcon BD,PO SBC2
+65,TTI Subcon BD,TTI SBC2
+66,GR Subcon BD,GR SBC2
+67,TTI Other BD,TTI OTH2
+68,GR Other BD,GR OTH2
+69,Payment Subcon,PMT SBC
+70,PR Quality,PR Qualty
+71,Import Trc,IMP
+72,Invoice Manual Acc,INV-M2
+73,Collect Manual Acc,COL M2
+74,PO Vendor DN,PO DN
+75,DN Vendor,DN
+76,TTI Manual,TTI Man
+77,PO Schedule2,PO Sch
+78,SO Schedule2,SO SCH2
+79,GR Close By Cash,CLS
+80,Credit Note,CN
+81,Customer Claim Receive CN,CCR CN
+82,PR Stamping,STP
+83,PR Non Stamping,WLD
+84,PR BOD,BOD
+85,Triger,Triger
+86,Responding,Responding
+87,OutDraft,OutDraft
+88,ViewPrint,ViewPrint
+89,MasterH,MasterH
+90,ReportH,ReportH
+91,MasterUser,MasterUser
+92,MasterCust,MasterCust
+93,MasterProdDelivery,MPD
+94,UtilityH,UtilityH
+95,MProdDelivery,MProdDelivery
+96,MProdStoreRoom,MProdStoreRoom
+97,MPartner,MPartner
+98,MCategory,MCategory
+99,MUnit,MUnit
+100,MCust,MCust
+101,TrcMaterial,TrcMaterial
+102,TrcStamping,TrcStamping
+103,TrcWelding,TrcWelding
+104,TrcWH,TrcWH
+105,TrcStoreRoom,TrcStoreRoom
+106,TrcGA,TrcGA
+107,TrcMTC,TrcMTC
+108,TrcICT,TrcICT
+109,MProdICT,MProdICT
+110,MProdMTNT,MProdMTNT
+111,MProdMTNM,MProdMTNM
+112,MProdGA,MProdGA
+113,TrcMTNM,TrcMTNM
+114,TrcMTNT,TrcMTNT
+115,TrcAsset,TrcAsset
+116,MProduct,MProduct
+117,TrcWIP,TrcWIP
+118,MAsset,MAsset
+119,MBom,MBom
+120,TrcSony,TrcSony
+121,TrcProduction,TrcProduction
+122,DailyGAP,DailyGAP
+123,MUserTR,MUserTR
+124,MProdMaterial,MProdMaterial
+125,MProdStamping,MProdStamping
+126,MProdWelding,MProdWelding
+128,TrcNonStamping,TrcNonStamping
+129,TrcBPP,TrcBPP
+130,MProdWip,MProdWip
+131,Tracer,Tracer
+132,TrcSJ,TrcSJ
+133,MSJ,MSJ
+134,TrcSJConfirm,TrcSJConfirm
+135,TrcSJConfirmMkt,TrcSJConfirmMkt
+136,TrcSJWH,TrcSJWH
+137,MPartner2,MPartner2
+138,PO Engineering,PO ENG
+139,TrcTTI,TrcTTI
+140,Administration,Administration
+141,GR Engineering,GR Engineering
+142,ReportPurchasing,ReportPurchasing
+144,TrcQC,TrcQC
+145,TrcPPIC,TrcPPIC
+146,Administrator,Administrator
+147,TrcPR,TrcPR
+148,TrcPO,TrcPO
+149,TrcGR,TrcGR
+150,TrcPay,TrcPay
+152,TrcPR_Pur,TrcPR_Pur
+153,TrcPR_FA,TrcPR_FA
+154,TrcPR_MKT,TrcPR_MKT
+155,TrcPR_QEMR,TrcPR_QEMR
+156,TrcPR_BOD,TrcPR_BOD
+157,TrcPR_GA,TrcPR_GA
+158,TrcPR_ICT,TrcPR_ICT
+159,TrcPR_QA,TrcPR_QA
+160,TrcPR_TR,TrcPR_TR
+161,TrcPR_PPIC,TrcPR_PPIC
+162,TrcPR_Eng,TrcPR_Eng
+163,TrcPR_STP,TrcPR_STP
+164,TrcPR_NSTP,TrcPR_NSTP
+165,TrcPR_MTN_M,TrcPR_MTN_M
+166,TrcPR_MTN_T,TrcPR_MTN_T
+167,Responding_PO,Responding_PO
+168,TrcPO_Pur,TrcPO_Pur
+169,TrcPO_FA,TrcPO_FA
+170,TrcPO_MKT,TrcPO_MKT
+171,TrcPO_QEMR,TrcPO_QEMR
+172,TrcPO_BOD,TrcPO_BOD
+173,TrcPO_GA,TrcPO_GA
+174,TrcPO_ICT,TrcPO_ICT
+175,TrcPO_QA,TrcPO_QA
+176,TrcPO_TR,TrcPO_TR
+177,TrcPO_Eng,TrcPO_Eng
+178,TrcPO_STP,TrcPO_STP
+179,TrcPO_NSTP,TrcPO_NSTP
+180,TrcPO_MTN_M,TrcPO_MTN_M
+181,TrcPO_MTN_T,TrcPO_MTN_T
+182,Responding_GR,Responding_GR
+183,Responding_TTI,Responding_TTI
+184,Responding_Pay,Responding_Pay
+185,MProdPR,MProdPR
+186,H_Monitoring,H_Monitoring
+187,Monitoring_input,Monitoring_input
+188,Monitoring_report,Monitoring_report
+189,M_InputAssy,M_InputAssy
+190,M_InputWIP,M_InputWIP
+191,M_InputSSG,M_InputSSG
+192,M_InputRobot,M_InputRobot
+193,M_InputLineA,M_InputLineA
+194,M_InputLineBC,M_InputLineBC
+195,M_InputPC,M_InputPC
+196,M_InputQG,M_InputQG
+197,M_InputHW,M_InputHW
+198,M_InputPL,M_InputPL
+199,M_InputRM,M_InputRM
+201,TrcGR_Pur,TrcGR_Pur
+202,TrcGR_FA,TrcGR_FA
+203,TrcGR_MKT,TrcGR_MKT
+204,TrcGR_QEMR,TrcGR_QEMR
+205,TrcGR_BOD,TrcGR_BOD
+206,TrcGR_GA,TrcGR_GA
+207,TrcGR_ICT,TrcGR_ICT
+208,TrcGR_QA,TrcGR_QA
+209,TrcGR_TR,TrcGR_TR
+210,TrcGR_Eng,TrcGR_Eng
+211,TrcGR_STP,TrcGR_STP
+212,TrcGR_NSTP,TrcGR_NSTP
+213,TrcGR_MTN_M,TrcGR_MTN_M
+214,TrcGR_MTN_T,TrcGR_MTN_T
+215,TrcGR_Jurnal,TrcGR_Jurnal
+216,TrcFixAssetPost,TrcFixAssetPost
+217,TrcTTI_Pur,TrcTTI_Pur
+218,TrcTTI_FA,TrcTTI_FA
+219,TrcTTI_MKT,TrcTTI_MKT
+220,TrcTTI_QEMR,TrcTTI_QEMR
+221,TrcTTI_BOD,TrcTTI_BOD
+222,TrcTTI_GA,TrcTTI_GA
+223,TrcTTI_ICT,TrcTTI_ICT
+224,TrcTTI_QA,TrcTTI_QA
+225,TrcTTI_TR,TrcTTI_TR
+226,TrcTTI_Eng,TrcTTI_Eng
+227,TrcTTI_STP,TrcTTI_STP
+228,TrcTTI_NSTP,TrcTTI_NSTP
+229,TrcTTI_MTN_M,TrcTTI_MTN_M
+230,TrcTTI_MTN_T,TrcTTI_MTN_T
+232,TrcPay_PAD,TrcPay_PAD
+233,TrcPay_BD,TrcPay_BD
+234,TrcManualPosting,TrcManualPosting
